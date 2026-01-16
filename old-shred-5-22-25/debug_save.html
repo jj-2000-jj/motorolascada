@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Workout Save Debug</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .card {
+      background: #f9f9f9;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    button {
+      background: #4a90e2;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+    button:hover {
+      background: #3670a7;
+    }
+    pre {
+      background: #f1f1f1;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+      white-space: pre-wrap;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    .success {
+      color: green;
+    }
+    .error {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>Workout Save Debug</h1>
+  
+  <div class="card">
+    <h2>Last Save Information</h2>
+    <div id="lastSave">Loading...</div>
+  </div>
+  
+  <div class="card">
+    <h2>Actions</h2>
+    <button id="loadLocalStorage">Load localStorage Data</button>
+    <button id="forceSave">Force Save to Server</button>
+    <button id="viewWorkoutsJson">View workouts.json</button>
+    <button id="clearLocalStorage">Clear localStorage</button>
+  </div>
+  
+  <div class="card">
+    <h2>Workout Summary</h2>
+    <div id="workoutSummary">Loading...</div>
+  </div>
+  
+  <div class="card">
+    <h2>Response</h2>
+    <pre id="response">No action taken yet.</pre>
+  </div>
+  
+  <script>
+    // Load last save info
+    function loadLastSaveInfo() {
+      const lastSave = localStorage.getItem('workoutApp_lastSave');
+      const lastSaveContainer = document.getElementById('lastSave');
+      
+      if (lastSave) {
+        try {
+          const saveInfo = JSON.parse(lastSave);
+          const date = new Date(saveInfo.timestamp).toLocaleString();
+          
+          let statusClass = saveInfo.status === 'success' ? 'success' : 'error';
+          
+          lastSaveContainer.innerHTML = `
+            <table>
+              <tr>
+                <th>Last Save Time</th>
+                <td>${date}</td>
+              </tr>
+              <tr>
+                <th>Status</th>
+                <td class="${statusClass}">${saveInfo.status}</td>
+              </tr>
+              ${saveInfo.error ? `<tr><th>Error</th><td class="error">${saveInfo.error}</td></tr>` : ''}
+            </table>
+          `;
+        } catch (e) {
+          lastSaveContainer.innerHTML = `<p class="error">Error parsing last save info: ${e.message}</p>`;
+        }
+      } else {
+        lastSaveContainer.innerHTML = `<p>No save information found in localStorage.</p>`;
+      }
+    }
+    
+    // Load workout summary
+    function loadWorkoutSummary() {
+      const workouts = localStorage.getItem('workoutApp_history');
+      const summaryContainer = document.getElementById('workoutSummary');
+      
+      if (workouts) {
+        try {
+          const workoutData = JSON.parse(workouts);
+          const workoutCount = Object.keys(workoutData).length;
+          
+          if (workoutCount > 0) {
+            // Count workouts per user
+            const userCounts = {};
+            Object.keys(workoutData).forEach(key => {
+              const user = key.split('_')[0];
+              userCounts[user] = (userCounts[user] || 0) + 1;
+            });
+            
+            // Create user summary table
+            let userTable = `
+              <h3>Workouts by User</h3>
+              <table>
+                <tr>
+                  <th>User</th>
+                  <th>Workout Count</th>
+                </tr>
+            `;
+            
+            Object.keys(userCounts).forEach(user => {
+              userTable += `
+                <tr>
+                  <td>${user}</td>
+                  <td>${userCounts[user]}</td>
+                </tr>
+              `;
+            });
+            
+            userTable += `</table>`;
+            
+            // Get most recent workout
+            const sortedKeys = Object.keys(workoutData).sort((a, b) => {
+              const partsA = a.split('_');
+              const partsB = b.split('_');
+              
+              if (partsA.length > 2 && !isNaN(parseInt(partsA[2]))) {
+                return parseInt(partsB[2] || 0) - parseInt(partsA[2] || 0);
+              } else {
+                const dateA = new Date(partsA[1] || 0);
+                const dateB = new Date(partsB[1] || 0);
+                return dateB - dateA;
+              }
+            });
+            
+            const mostRecentKey = sortedKeys[0];
+            const mostRecentDate = mostRecentKey.split('_')[1];
+            
+            summaryContainer.innerHTML = `
+              <p>Total workouts in localStorage: <strong>${workoutCount}</strong></p>
+              <p>Most recent workout: <strong>${mostRecentDate}</strong></p>
+              ${userTable}
+            `;
+          } else {
+            summaryContainer.innerHTML = `<p>No workouts found in localStorage.</p>`;
+          }
+        } catch (e) {
+          summaryContainer.innerHTML = `<p class="error">Error parsing workout data: ${e.message}</p>`;
+        }
+      } else {
+        summaryContainer.innerHTML = `<p>No workout data found in localStorage.</p>`;
+      }
+    }
+    
+    // Force save to server
+    async function forceSaveToServer() {
+      const response = document.getElementById('response');
+      response.textContent = 'Saving to server...';
+      
+      const workouts = localStorage.getItem('workoutApp_history');
+      
+      if (!workouts) {
+        response.textContent = 'No workout data found in localStorage to save.';
+        return;
+      }
+      
+      try {
+        const workoutData = JSON.parse(workouts);
+        
+        // Add metadata
+        const now = new Date();
+        workoutData._meta = {
+          lastSaved: now.getTime(),
+          saveDate: now.toISOString(),
+          source: 'debug_save.html',
+          workoutCount: Object.keys(workoutData).filter(k => !k.startsWith('_')).length
+        };
+        
+        const payload = {
+          action: 'saveWorkouts',
+          data: { workoutHistory: workoutData }
+        };
+        
+        // Send to server
+        const saveResponse = await fetch('https://motorolascada.com/save_workouts.php', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Cache-Control': 'no-cache'
+          },
+          body: JSON.stringify(payload)
+        });
+        
+        const responseText = await saveResponse.text();
+        
+        try {
+          const jsonResponse = JSON.parse(responseText);
+          response.innerHTML = `<span class="${saveResponse.ok ? 'success' : 'error'}">
+            Server response (${saveResponse.status}):
+          </span>
+          <pre>${JSON.stringify(jsonResponse, null, 2)}</pre>`;
+          
+          // Update last save info
+          const saveInfo = {
+            timestamp: now.getTime(),
+            date: now.toISOString(),
+            status: saveResponse.ok ? 'success' : 'error',
+            error: saveResponse.ok ? null : 'HTTP ' + saveResponse.status
+          };
+          localStorage.setItem('workoutApp_lastSave', JSON.stringify(saveInfo));
+          loadLastSaveInfo();
+          
+        } catch (e) {
+          response.innerHTML = `<span class="error">
+            Server response (${saveResponse.status}) - not JSON:
+          </span>
+          <pre>${responseText}</pre>`;
+        }
+      } catch (e) {
+        response.textContent = `Error: ${e.message}`;
+      }
+    }
+    
+    // View workouts.json on server
+    async function viewWorkoutsJson() {
+      const response = document.getElementById('response');
+      response.textContent = 'Loading workouts.json...';
+      
+      try {
+        // Try both the direct JSON file and API endpoint
+        const sources = [
+          { name: 'Direct JSON', url: 'https://motorolascada.com/workouts.json' },
+          { name: 'API Endpoint', url: 'https://motorolascada.com/get_workouts.php' }
+        ];
+        
+        for (const source of sources) {
+          try {
+            const fileResponse = await fetch(source.url, {
+              headers: {
+                'Cache-Control': 'no-cache'
+              }
+            });
+            
+            if (fileResponse.ok) {
+              const text = await fileResponse.text();
+              
+              try {
+                const json = JSON.parse(text);
+                const workoutCount = json.workoutHistory ? Object.keys(json.workoutHistory).length : 0;
+                
+                response.innerHTML = `<p class="success">
+                  Success from ${source.name}: Found ${workoutCount} workouts
+                </p>
+                <pre>${JSON.stringify(json, null, 2).substring(0, 2000)}...</pre>
+                <p><em>Output truncated to first 2000 characters</em></p>`;
+                
+                // Success, no need to try other sources
+                break;
+              } catch (jsonError) {
+                response.innerHTML = `<p class="error">
+                  Error parsing JSON from ${source.name}: ${jsonError.message}
+                </p>
+                <pre>${text.substring(0, 1000)}...</pre>`;
+              }
+            } else {
+              response.innerHTML = `<p class="error">
+                Failed to fetch from ${source.name} (${fileResponse.status}): ${fileResponse.statusText}
+              </p>`;
+            }
+          } catch (sourceError) {
+            response.innerHTML = `<p class="error">
+              Error fetching from ${source.name}: ${sourceError.message}
+            </p>`;
+          }
+        }
+      } catch (e) {
+        response.textContent = `Error: ${e.message}`;
+      }
+    }
+    
+    // Load localStorage data
+    function loadLocalStorageData() {
+      const response = document.getElementById('response');
+      
+      try {
+        const workouts = localStorage.getItem('workoutApp_history');
+        if (workouts) {
+          const workoutData = JSON.parse(workouts);
+          response.innerHTML = `<pre>${JSON.stringify(workoutData, null, 2).substring(0, 2000)}...</pre>
+          <p><em>Output truncated to first 2000 characters</em></p>`;
+        } else {
+          response.textContent = 'No workout data found in localStorage.';
+        }
+      } catch (e) {
+        response.textContent = `Error: ${e.message}`;
+      }
+    }
+    
+    // Clear localStorage data
+    function clearLocalStorageData() {
+      if (confirm('Are you sure you want to clear all workout data from localStorage? This cannot be undone.')) {
+        localStorage.removeItem('workoutApp_history');
+        localStorage.removeItem('workoutApp_lastSave');
+        document.getElementById('response').textContent = 'localStorage data cleared.';
+        loadLastSaveInfo();
+        loadWorkoutSummary();
+      }
+    }
+    
+    // Initialize
+    document.addEventListener('DOMContentLoaded', function() {
+      // Load initial data
+      loadLastSaveInfo();
+      loadWorkoutSummary();
+      
+      // Button event listeners
+      document.getElementById('loadLocalStorage').addEventListener('click', loadLocalStorageData);
+      document.getElementById('forceSave').addEventListener('click', forceSaveToServer);
+      document.getElementById('viewWorkoutsJson').addEventListener('click', viewWorkoutsJson);
+      document.getElementById('clearLocalStorage').addEventListener('click', clearLocalStorageData);
+    });
+  </script>
+</body>
+</html> 

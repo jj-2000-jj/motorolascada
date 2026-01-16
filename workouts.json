@@ -1,0 +1,4975 @@
+{
+    "workoutHistory": {
+        "Jared_2025-02-25": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 45,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 45,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 45,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 45,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 75,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 70,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 70,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 70,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 70,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Barbell Bicep Curls": {
+                "sets": [
+                    {
+                        "weight": 40,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 40,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 40,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 40,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 75,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 75,
+                        "reps": 20
+                    }
+                ]
+            }
+        },
+        "Jared_2025-02-26_1740675837528": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Romanian Deadlift": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 165,
+                        "reps": 13
+                    }
+                ]
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 60
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 35
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 31
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 23
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 12
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 170,
+                "protein": 123,
+                "creatine": 5,
+                "timestamp": 1740675837528,
+                "date": "2025-02-26"
+            }
+        },
+        "Cohen_2025-02-25_1740694075619": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 92,
+                        "reps": 5
+                    },
+                    {
+                        "weight": 92,
+                        "reps": 5
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1740694075619,
+                "date": "2025-02-25"
+            }
+        },
+        "Cohen_2025-02-26_1740694205758": {
+            "Overhead Press": {
+                "sets": [
+                    {
+                        "weight": 75,
+                        "reps": 2
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 117,
+                "protein": 90,
+                "creatine": null,
+                "timestamp": 1740694205758,
+                "date": "2025-02-26"
+            }
+        },
+        "Jared_2025-02-28_1740791919504": {
+            "Incline Dumbbell Press": {
+                "sets": [
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            "T-Bar Row": {
+                "sets": [
+                    {
+                        "weight": 80,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 80,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 80,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 80,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 110,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 8
+                    }
+                ]
+            },
+            "Chest Fly": {
+                "sets": [
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 21
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 170,
+                "protein": 95,
+                "creatine": 5,
+                "timestamp": 1740791919504,
+                "date": "2025-02-28"
+            }
+        },
+        "Cohen_2025-03-01_1740880480772": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 107,
+                        "reps": 3
+                    },
+                    {
+                        "weight": 107,
+                        "reps": 3
+                    },
+                    {
+                        "weight": 107,
+                        "reps": 3
+                    },
+                    {
+                        "weight": 92,
+                        "reps": 3
+                    },
+                    {
+                        "weight": "",
+                        "reps": 3
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 117,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1740880480772,
+                "date": "2025-03-01"
+            }
+        },
+        "Cohen_2025-03-01_1740881011234": {
+            "Pull-Ups": {
+                "sets": [
+                    {
+                        "weight": 117,
+                        "reps": 6
+                    },
+                    {
+                        "weight": 117,
+                        "reps": 7
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1740881011234,
+                "date": "2025-03-01"
+            }
+        },
+        "Jared_2025-03-03_1741047372376": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": 175,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Romanian Deadlift": {
+                "sets": [
+                    {
+                        "weight": 115,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 115,
+                        "reps": 7
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 75
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 45
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 43
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 37
+                    }
+                ]
+            },
+            "Cable Hip Abduction": {
+                "sets": [
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Cable Hip Adduction": {
+                "sets": [
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 25,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 175,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 13
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 175,
+                        "reps": 11
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 120,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 120,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 120,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 120,
+                        "reps": 12
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 170,
+                "protein": 90,
+                "creatine": 5,
+                "timestamp": 1741047372376,
+                "date": "2025-03-03"
+            }
+        },
+        "Jared_2025-03-04_1741137945502": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 7
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 3
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Triceps Pulldown": {
+                "sets": [
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 6
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 3
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 4
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 14
+                    }
+                ]
+            },
+            "Arnold Presses": {
+                "sets": [
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Lateral Raises": {
+                "sets": [
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Front Raises": {
+                "sets": [
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 3,
+                        "reps": 20
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 169,
+                "protein": 110,
+                "creatine": 5,
+                "timestamp": 1741137945502,
+                "date": "2025-03-04"
+            }
+        },
+        "Jared_2025-03-05_1741226215140": {
+            "Run Mile": {
+                "sets": [
+                    {
+                        "weight": "",
+                        "reps": 8
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 11
+                    }
+                ]
+            },
+            "Hammer Curls": {
+                "sets": [
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 7
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 2
+                    }
+                ]
+            },
+            "Rear Deltoid Cable Fly": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Crunch": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 11
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 7
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 8
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 4
+                    }
+                ]
+            },
+            "Face Pulls": {
+                "sets": [
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 169,
+                "protein": 110,
+                "creatine": 5,
+                "timestamp": 1741226215140,
+                "date": "2025-03-05"
+            }
+        },
+        "Jared_2025-03-06_1741313757646": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 8
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 12
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 15
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 15
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 15
+                    }
+                ]
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 85
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 56
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 51
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 42
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 8
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 5
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 6
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 3
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 169,
+                "protein": 110,
+                "creatine": 5,
+                "timestamp": 1741313757646,
+                "date": "2025-03-06"
+            }
+        },
+        "Jared_2025-03-07_1741386453205": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 5
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 0
+                    }
+                ]
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 100,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 13
+                    }
+                ]
+            },
+            "Barbell Bicep Curls": {
+                "sets": [
+                    {
+                        "weight": 50,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 50,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 50,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 50,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Chest Fly": {
+                "sets": [
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 20,
+                        "reps": 10
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 169,
+                "protein": 110,
+                "creatine": 5,
+                "timestamp": 1741386453205,
+                "date": "2025-03-07"
+            }
+        },
+        "Jared_2025-03-11_1741734175213": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 7
+                    },
+                    {
+                        "weight": 95,
+                        "reps": 4
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 105,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 105,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 105,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 105,
+                        "reps": 11
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": 10,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 7
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 4
+                    },
+                    {
+                        "weight": 10,
+                        "reps": 3
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Arnold Presses": {
+                "sets": [
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 5,
+                        "reps": 10
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Face Pulls": {
+                "sets": [
+                    {
+                        "weight": 15,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 15,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 15,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 15,
+                        "reps": 10
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Crunch": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 16
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 9
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 8
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 5
+                    }
+                ],
+                "_timerRef": []
+            },
+            "_stats": {
+                "bodyWeight": 169,
+                "protein": 130,
+                "creatine": 5,
+                "timestamp": 1741734175213,
+                "date": "2025-03-11"
+            }
+        },
+        "Jared_2025-03-12_1741823950790": {
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 135,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 135,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 135,
+                        "reps": 20
+                    },
+                    {
+                        "weight": 135,
+                        "reps": 22
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Romanian Deadlift": {
+                "sets": [
+                    {
+                        "weight": 115,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 115,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 115,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 115,
+                        "reps": 10
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 185,
+                        "reps": 11
+                    }
+                ],
+                "_timerRef": []
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 30,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 30,
+                        "reps": 14
+                    },
+                    {
+                        "weight": 30,
+                        "reps": 13
+                    },
+                    {
+                        "weight": 30,
+                        "reps": 8
+                    }
+                ],
+                "_timerRef": []
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": 1,
+                        "reps": 100
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 70
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 60
+                    },
+                    {
+                        "weight": 1,
+                        "reps": 48
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 168.5,
+                "protein": 130,
+                "creatine": 5,
+                "timestamp": 1741823950790,
+                "date": "2025-03-12"
+            }
+        },
+        "Jared_2025-03-14_1741985534842": {
+            "Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 110,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 110,
+                        "reps": 15
+                    }
+                ]
+            },
+            "Barbell Bicep Curls": {
+                "sets": [
+                    {
+                        "weight": 60,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 60,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 60,
+                        "reps": 8
+                    },
+                    {
+                        "weight": 60,
+                        "reps": 6
+                    }
+                ]
+            },
+            "Triceps Pulldown": {
+                "sets": [
+                    {
+                        "weight": 90,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 8
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 6
+                    },
+                    {
+                        "weight": 90,
+                        "reps": 5
+                    }
+                ]
+            },
+            "Incline Dumbbell Press": {
+                "sets": [
+                    {
+                        "weight": 35,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 35,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 35,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 35,
+                        "reps": 10
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 100,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 12
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 15
+                    }
+                ],
+                "_timerRef": []
+            },
+            "_stats": {
+                "bodyWeight": 168.6,
+                "protein": 120,
+                "creatine": 10,
+                "timestamp": 1741985534842,
+                "date": "2025-03-14"
+            }
+        },
+        "Jared_2025-04-17_1744930148712": {
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": 3.5,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 3.5,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 3.5,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 3.5,
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Hip Adduction": {
+                "sets": [
+                    {
+                        "weight": 30,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 30,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 30,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 30,
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "168.6",
+                "protein": "120",
+                "creatine": "10",
+                "timestamp": 1744930148712,
+                "date": "2025-04-17"
+            }
+        },
+        "_meta": {
+            "lastSaved": 1766255089911,
+            "saveDate": "2025-12-20T18:24:49.911Z",
+            "workoutCount": 62
+        },
+        "Jared_2025-04-17_1744933596031": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Barbell Bicep Curls": {
+                "sets": [
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Triceps Pulldown": {
+                "sets": [
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "168.6",
+                "protein": "120",
+                "creatine": "10",
+                "timestamp": 1744933596031,
+                "date": "2025-04-17"
+            }
+        },
+        "Jared_2025-04-18_1744999955927": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "110",
+                "protein": "8",
+                "creatine": "8",
+                "timestamp": 1744999955927,
+                "date": "2025-04-18"
+            }
+        },
+        "Jared_2025-04-18_1745000254009": {
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "1"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "110",
+                "protein": "8",
+                "creatine": "8",
+                "timestamp": 1745000254009,
+                "date": "2025-04-18"
+            }
+        },
+        "Jared_2025-04-18_1745000310036": {
+            "Cable Triceps Pulldown": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "1"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "110",
+                "protein": "8",
+                "creatine": "8",
+                "timestamp": 1745000310036,
+                "date": "2025-04-18"
+            }
+        },
+        "Jared_2025-04-21_1745276981755": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "9"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "3"
+                    }
+                ]
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "3",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "3",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "3",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "3",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "35",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Front Raises": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1745276981755,
+                "date": "2025-04-21"
+            }
+        },
+        "Jared_2025-04-24_1745539406690": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": 110,
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1745539406690,
+                "date": "2025-04-24"
+            }
+        },
+        "Graham R_2025-04-24_1745539686624": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "40",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "40",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "40",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "90",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "120",
+                "protein": "35",
+                "creatine": "0",
+                "timestamp": 1745539686624,
+                "date": "2025-04-24"
+            }
+        },
+        "Graham R_2025-04-24_1745540229563": {
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "150",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "120",
+                "protein": "35",
+                "creatine": "0",
+                "timestamp": 1745540229563,
+                "date": "2025-04-24"
+            }
+        },
+        "Jared_2025-04-28_1745893849547": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "7"
+                    }
+                ]
+            },
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Plank": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1745893849547,
+                "date": "2025-04-28"
+            }
+        },
+        "Jared_2025-05-05_1746477640655": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "2"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "95",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 205,
+                        "reps": "12"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1746477640655,
+                "date": "2025-05-05"
+            }
+        },
+        "Jared_2025-05-13_1747185820981": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 125,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 125,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 125,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 125,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Dumbbell Press": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": "165",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "20"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747185820981,
+                "date": "2025-05-13"
+            }
+        },
+        "Jared_2025-05-13_1747273472719": {
+            "Bulgarian Split Squats": {
+                "sets": [
+                    {
+                        "weight": "30",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "205",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "14"
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747273472719,
+                "date": "2025-05-13"
+            }
+        },
+        "Jared_2025-05-15_1747349396629": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 175,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 175,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 175,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 175,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": "160",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "160",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "160",
+                        "reps": "12"
+                    }
+                ]
+            },
+            "Cable Face Pulls": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747349396629,
+                "date": "2025-05-15"
+            }
+        },
+        "Jared_2025-05-16_1747433357608": {
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "15"
+                    }
+                ]
+            },
+            "Lateral Raises": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Rear Deltoid Cable Fly": {
+                "sets": [
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "5",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747433357608,
+                "date": "2025-05-16"
+            }
+        },
+        "Jared_2025-05-19_1747707722067": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": 135,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 135,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 135,
+                        "reps": "6"
+                    },
+                    {
+                        "weight": 135,
+                        "reps": "8"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "8"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747707722067,
+                "date": "2025-05-19"
+            }
+        },
+        "Jared_2025-05-21_1747885029564": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747885029564,
+                "date": "2025-05-21"
+            }
+        },
+        "Jared_2025-05-22_1747957809185": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": "2"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "2"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "2"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "2"
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 170,
+                        "reps": ""
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 175,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 175,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 175,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 175,
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "172",
+                "protein": "120",
+                "creatine": "5",
+                "timestamp": 1747957809185,
+                "date": "2025-05-22"
+            }
+        },
+        "Jared_2025-05-22_1747963499818": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": "175",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "175",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "175",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "185",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "185",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1747963499818,
+                "date": "2025-05-22"
+            }
+        },
+        "Jared_2025-05-28_1748478009335": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "210",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "30",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "11"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "11"
+                    }
+                ]
+            },
+            "Ab Roll Out": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1748478009335,
+                "date": "2025-05-28"
+            }
+        },
+        "Jared_2025-05-29_1748572126868": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 185,
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "20"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "20"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1748572126868,
+                "date": "2025-05-29"
+            }
+        },
+        "Jared_2025-05-30_1748644156913": {
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Lateral Raises": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "9"
+                    }
+                ]
+            },
+            "Cable Face Pulls": {
+                "sets": [
+                    {
+                        "weight": 40,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 40,
+                        "reps": "15"
+                    },
+                    {
+                        "weight": 40,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 40,
+                        "reps": "20"
+                    }
+                ]
+            },
+            "Front Raises": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "16"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1748644156913,
+                "date": "2025-05-30"
+            }
+        },
+        "Jared_2025-06-03_1749004233672": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "3"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1749004233672,
+                "date": "2025-06-03"
+            }
+        },
+        "Jared_2025-06-04_1749084593995": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": 105,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 105,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 105,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 105,
+                        "reps": "11"
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "210",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "210",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "30",
+                        "reps": "15"
+                    }
+                ]
+            },
+            "Ab Roll Out": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1749084593995,
+                "date": "2025-06-04"
+            }
+        },
+        "Jared_2025-06-05_1749162106100": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "12"
+                    }
+                ]
+            },
+            "Cable Lat Pulldown": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1749162106100,
+                "date": "2025-06-05"
+            }
+        },
+        "Jared_2025-06-09_1749520336852": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Cable Ab Twist": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "45",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "60",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "60",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "7"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1749520336852,
+                "date": "2025-06-09"
+            }
+        },
+        "Jared_2025-06-10_1749597326037": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": 115,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 115,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "125",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "125",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "215",
+                        "reps": "16"
+                    },
+                    {
+                        "weight": "215",
+                        "reps": "16"
+                    },
+                    {
+                        "weight": "215",
+                        "reps": "14"
+                    },
+                    {
+                        "weight": "215",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": 35,
+                        "reps": "15"
+                    },
+                    {
+                        "weight": 35,
+                        "reps": "15"
+                    },
+                    {
+                        "weight": 35,
+                        "reps": "15"
+                    },
+                    {
+                        "weight": 35,
+                        "reps": "15"
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": "25",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "25",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "25",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "25",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1749597326037,
+                "date": "2025-06-10"
+            }
+        },
+        "Jared_2025-06-25_1750892152445": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 135,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 135,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1750892152445,
+                "date": "2025-06-25"
+            }
+        },
+        "Jared_2025-08-21_1755789305086": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "11"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": ""
+                    }
+                ]
+            },
+            "One Leg Calf Raises": {
+                "sets": [
+                    {
+                        "weight": "50",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "50",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "50",
+                        "reps": "9"
+                    },
+                    {
+                        "weight": "50",
+                        "reps": "9"
+                    }
+                ]
+            },
+            "Cable Ab Twist": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Cable Hip Abduction": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Hip Adduction": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1755789305086,
+                "date": "2025-08-21"
+            }
+        },
+        "Jared_2025-10-13_1760406848374": {
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "20"
+                    }
+                ]
+            },
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "0"
+                    }
+                ]
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": null,
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1760406848374,
+                "date": "2025-10-13"
+            }
+        },
+        "Jared_2025-10-16_1760659290766": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Incline Dumbbell Press": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "75",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1760659290766,
+                "date": "2025-10-16"
+            }
+        },
+        "Jared_2025-10-27_1761603205490": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "11"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "170",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "170",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "170",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "170",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "1"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1761603205490,
+                "date": "2025-10-27"
+            }
+        },
+        "Jared_2025-10-29_1761791702177": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "4"
+                    }
+                ]
+            },
+            "Glute Bridges": {
+                "sets": [
+                    {
+                        "weight": 40,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 40,
+                        "reps": "5"
+                    },
+                    {
+                        "weight": 40,
+                        "reps": ""
+                    },
+                    {
+                        "weight": 40,
+                        "reps": ""
+                    }
+                ]
+            },
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "2"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1761791702177,
+                "date": "2025-10-29"
+            }
+        },
+        "Jared_2025-11-10_1762827956690": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Rear Deltoid Cable Fly": {
+                "sets": [
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": 205,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "20"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 205,
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Ab Roll Out": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1762827956690,
+                "date": "2025-11-10"
+            }
+        },
+        "Jared_2025-11-12_1762996548421": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "85",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 85,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 85,
+                        "reps": "6"
+                    },
+                    {
+                        "weight": 85,
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "4"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1762996548421,
+                "date": "2025-11-12"
+            }
+        },
+        "Jared_2025-11-13_1763088820613": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "165",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1763088820613,
+                "date": "2025-11-13"
+            }
+        },
+        "Jared_2025-11-17_1763427824219": {
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "11"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "4"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 180,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 180,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 180,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 180,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "4"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "4"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1763427824219,
+                "date": "2025-11-17"
+            }
+        },
+        "Jared_2025-11-18_1763517110511": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "3"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "85",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "85",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "85",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "85",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Cable Ab Twist": {
+                "sets": [
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1763517110511,
+                "date": "2025-11-18"
+            }
+        },
+        "Jared_2025-11-21_1763751471908": {
+            "Seated Dumbbell Shoulder Press": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "20",
+                        "reps": "12"
+                    }
+                ]
+            },
+            "Lateral Raises": {
+                "sets": [
+                    {
+                        "weight": "20",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "10",
+                        "reps": "11"
+                    }
+                ]
+            },
+            "Cable Face Pulls": {
+                "sets": [
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "16"
+                    }
+                ]
+            },
+            "Rear Deltoid Cable Fly": {
+                "sets": [
+                    {
+                        "weight": 15,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 15,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 15,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 15,
+                        "reps": "12"
+                    }
+                ]
+            },
+            "Ab Roll Out": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "16"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "16"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "1",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1763751471908,
+                "date": "2025-11-21"
+            }
+        },
+        "Jared_2025-11-27_1764262795241": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": 95,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 95,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 95,
+                        "reps": "7"
+                    },
+                    {
+                        "weight": 95,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1764262795241,
+                "date": "2025-11-27"
+            }
+        },
+        "Jared_2025-12-02_1764708242572": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": 190,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 190,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 190,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 190,
+                        "reps": "10"
+                    }
+                ]
+            },
+            "T-Bar Row": {
+                "sets": [
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "115",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "4"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "3"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "2"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "1"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1764708242572,
+                "date": "2025-12-02"
+            }
+        },
+        "Jared_2025-12-04_1764891971836": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1764891971836,
+                "date": "2025-12-04"
+            }
+        },
+        "Jared_2025-12-05_1764958740679": {
+            "Barbell Back Squat": {
+                "sets": [
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Barbell Deadlift": {
+                "sets": [
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "145",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "145",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Ab Roll Out": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Hip Abduction": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "Cable Hip Adduction": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "15"
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1764958740679,
+                "date": "2025-12-05"
+            }
+        },
+        "Jared_2025-12-08_1765238700402": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "185",
+                        "reps": "11"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "4"
+                    }
+                ]
+            },
+            "Barbell Shrugs": {
+                "sets": [
+                    {
+                        "weight": "205",
+                        "reps": "13"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "205",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1765238700402,
+                "date": "2025-12-08"
+            }
+        },
+        "Jared_2025-12-10_1765396955922": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "7"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "9"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "35",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "50",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "50",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Cable Ab Twist": {
+                "sets": [
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "70",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1765396955922,
+                "date": "2025-12-10"
+            }
+        },
+        "Jared_2025-12-18_1766102032483": {
+            "Barbell Bench Press": {
+                "sets": [
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "135",
+                        "reps": "5"
+                    }
+                ]
+            },
+            "Incline Barbell Press": {
+                "sets": [
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "6"
+                    },
+                    {
+                        "weight": "95",
+                        "reps": "6"
+                    }
+                ]
+            },
+            "Flys": {
+                "sets": [
+                    {
+                        "weight": "50",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "50",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "50",
+                        "reps": ""
+                    },
+                    {
+                        "weight": "50",
+                        "reps": ""
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1766102032483,
+                "date": "2025-12-18"
+            }
+        },
+        "Jared_2025-12-20_1766255089903": {
+            "Bent-Over Barbell Row": {
+                "sets": [
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "10"
+                    },
+                    {
+                        "weight": 195,
+                        "reps": "13"
+                    }
+                ]
+            },
+            "Pull Ups": {
+                "sets": [
+                    {
+                        "weight": "1",
+                        "reps": "8"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "5"
+                    },
+                    {
+                        "weight": "1",
+                        "reps": "3"
+                    }
+                ]
+            },
+            "Cable Face Pulls": {
+                "sets": [
+                    {
+                        "weight": "100",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "100",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "100",
+                        "reps": "12"
+                    },
+                    {
+                        "weight": "100",
+                        "reps": "14"
+                    }
+                ]
+            },
+            "Cable Row": {
+                "sets": [
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    },
+                    {
+                        "weight": "230",
+                        "reps": "10"
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": "163",
+                "protein": null,
+                "creatine": null,
+                "timestamp": 1766255089903,
+                "date": "2025-12-20"
+            }
+        }
+    }
+}

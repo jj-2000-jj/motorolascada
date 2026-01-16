@@ -1,0 +1,17 @@
+{
+  "Jared": {
+    "bodyWeight": 168.6,
+    "protein": 120,
+    "creatine": 10
+  },
+  "Cohen": {
+    "bodyWeight": 117,
+    "protein": 90,
+    "creatine": null
+  },
+  "Graham": {
+    "bodyWeight": null,
+    "protein": null,
+    "creatine": null
+  }
+}

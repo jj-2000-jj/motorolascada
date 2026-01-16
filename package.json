@@ -1,0 +1,24 @@
+{
+  "name": "shred-workout-tracker",
+  "version": "1.0.0",
+  "description": "A web-based application for tracking workouts and fitness progress",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash ./start.sh",
+    "setup": "bash ./setup.sh",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj-2000-jj/shred.git"
+  },
+  "keywords": [
+    "workout",
+    "fitness",
+    "tracker",
+    "php"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 

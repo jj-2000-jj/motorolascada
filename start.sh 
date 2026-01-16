@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# This is a special script that has a space at the end of its name
+# to handle a specific deployment issue
+
+# Run the actual start.sh script
+bash ./start.sh 

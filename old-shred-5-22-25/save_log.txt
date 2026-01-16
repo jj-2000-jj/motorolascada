@@ -1,0 +1,1190 @@
+[2025-03-27 00:14:56] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "15982"
+}
+----------------------------
+[2025-03-27 00:14:56] Received raw data
+Data: {
+    "length": 15982,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-03-27 00:14:56] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 30
+}
+----------------------------
+[2025-03-27 00:14:56] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":60875,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":30}"
+}
+----------------------------
+[2025-03-27 01:57:20] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "10396"
+}
+----------------------------
+[2025-03-27 01:57:20] Received raw data
+Data: {
+    "length": 10396,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-03-27 01:57:20] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 16
+}
+----------------------------
+[2025-03-27 01:57:20] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":41121,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":16}"
+}
+----------------------------
+[2025-03-27 02:17:30] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "10396"
+}
+----------------------------
+[2025-03-27 02:17:30] Received raw data
+Data: {
+    "length": 10396,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-03-27 02:17:30] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 16
+}
+----------------------------
+[2025-03-27 02:17:30] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":41121,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":16}"
+}
+----------------------------
+[2025-03-27 02:48:04] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "11175"
+}
+----------------------------
+[2025-03-27 02:48:04] Received raw data
+Data: {
+    "length": 11175,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-03-27 02:48:04] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 17
+}
+----------------------------
+[2025-03-27 02:48:04] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":44226,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":17}"
+}
+----------------------------
+[2025-03-28 01:34:54] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "11875"
+}
+----------------------------
+[2025-03-28 01:34:54] Received raw data
+Data: {
+    "length": 11875,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-03-28 01:34:54] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 18
+}
+----------------------------
+[2025-03-28 01:34:54] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":46814,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":18}"
+}
+----------------------------
+[2025-04-01 00:42:27] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12706"
+}
+----------------------------
+[2025-04-01 00:42:27] Received raw data
+Data: {
+    "length": 12706,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-01 00:42:27] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 19
+}
+----------------------------
+[2025-04-01 00:42:27] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":49971,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":19}"
+}
+----------------------------
+[2025-04-01 01:01:45] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12706"
+}
+----------------------------
+[2025-04-01 01:01:45] Received raw data
+Data: {
+    "length": 12706,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-01 01:01:45] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 19
+}
+----------------------------
+[2025-04-01 01:01:45] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":49971,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":19}"
+}
+----------------------------
+[2025-04-09 00:53:11] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12706"
+}
+----------------------------
+[2025-04-09 00:53:11] Received raw data
+Data: {
+    "length": 12706,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-09 00:53:11] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 19
+}
+----------------------------
+[2025-04-09 00:53:11] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":49971,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":19}"
+}
+----------------------------
+[2025-04-09 23:57:06] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12735"
+}
+----------------------------
+[2025-04-09 23:57:06] Received raw data
+Data: {
+    "length": 12735,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-09 23:57:06] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 19
+}
+----------------------------
+[2025-04-09 23:57:06] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:31:51] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:31:51] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:31:51] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:31:51] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:33:08] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:33:08] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:33:08] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:33:08] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:34:50] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:34:50] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:34:50] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:34:50] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:35:52] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:35:52] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:35:52] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:35:52] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:35:55] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:35:55] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:35:55] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:35:55] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-11 01:35:59] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-11 01:35:59] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-11 01:35:59] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-11 01:35:59] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-14 23:39:57] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-14 23:39:57] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-14 23:39:57] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-14 23:39:57] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-17 21:24:54] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13566"
+}
+----------------------------
+[2025-04-17 21:24:54] Received raw data
+Data: {
+    "length": 13566,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-17 21:24:54] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-17 21:24:55] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":53157,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-17 22:49:08] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "10930"
+}
+----------------------------
+[2025-04-17 22:49:08] Received raw data
+Data: {
+    "length": 10930,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-17 22:49:08] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 17
+}
+----------------------------
+[2025-04-17 22:49:09] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":43105,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":17}"
+}
+----------------------------
+[2025-04-17 23:46:36] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "11618"
+}
+----------------------------
+[2025-04-17 23:46:36] Received raw data
+Data: {
+    "length": 11618,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-17 23:46:36] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 18
+}
+----------------------------
+[2025-04-17 23:46:36] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":45681,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":18}"
+}
+----------------------------
+[2025-04-18 18:12:36] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "11890"
+}
+----------------------------
+[2025-04-18 18:12:36] Received raw data
+Data: {
+    "length": 11890,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-18 18:12:36] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 19
+}
+----------------------------
+[2025-04-18 18:12:36] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":46527,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":19}"
+}
+----------------------------
+[2025-04-18 18:17:34] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12173"
+}
+----------------------------
+[2025-04-18 18:17:34] Received raw data
+Data: {
+    "length": 12173,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-18 18:17:34] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 20
+}
+----------------------------
+[2025-04-18 18:17:34] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":47384,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":20}"
+}
+----------------------------
+[2025-04-18 18:18:30] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "12447"
+}
+----------------------------
+[2025-04-18 18:18:30] Received raw data
+Data: {
+    "length": 12447,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-18 18:18:30] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 21
+}
+----------------------------
+[2025-04-18 18:18:30] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":48232,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":21}"
+}
+----------------------------
+[2025-04-21 23:09:42] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13146"
+}
+----------------------------
+[2025-04-21 23:09:42] Received raw data
+Data: {
+    "length": 13146,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-21 23:09:42] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 22
+}
+----------------------------
+[2025-04-21 23:09:42] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":50819,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":22}"
+}
+----------------------------
+[2025-04-25 00:03:26] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "13709"
+}
+----------------------------
+[2025-04-25 00:03:26] Received raw data
+Data: {
+    "length": 13709,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-25 00:03:26] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 23
+}
+----------------------------
+[2025-04-25 00:03:27] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":52832,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":23}"
+}
+----------------------------
+[2025-04-25 00:08:06] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "14265"
+}
+----------------------------
+[2025-04-25 00:08:06] Received raw data
+Data: {
+    "length": 14265,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-25 00:08:06] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 24
+}
+----------------------------
+[2025-04-25 00:08:07] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":54838,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":24}"
+}
+----------------------------
+[2025-04-25 00:17:09] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "14548"
+}
+----------------------------
+[2025-04-25 00:17:09] Received raw data
+Data: {
+    "length": 14548,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-25 00:17:09] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 25
+}
+----------------------------
+[2025-04-25 00:17:09] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":55695,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":25}"
+}
+----------------------------
+[2025-04-29 02:30:50] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "15253"
+}
+----------------------------
+[2025-04-29 02:30:50] Received raw data
+Data: {
+    "length": 15253,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-04-29 02:30:50] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 26
+}
+----------------------------
+[2025-04-29 02:30:50] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":58288,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":26}"
+}
+----------------------------
+[2025-05-05 20:40:41] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "15961"
+}
+----------------------------
+[2025-05-05 20:40:41] Received raw data
+Data: {
+    "length": 15961,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-05 20:40:41] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 27
+}
+----------------------------
+[2025-05-05 20:40:41] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":60884,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":27}"
+}
+----------------------------
+[2025-05-14 01:23:41] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "16658"
+}
+----------------------------
+[2025-05-14 01:23:41] Received raw data
+Data: {
+    "length": 16658,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-14 01:23:41] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 28
+}
+----------------------------
+[2025-05-14 01:23:41] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":63469,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":28}"
+}
+----------------------------
+[2025-05-15 01:44:33] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "17525"
+}
+----------------------------
+[2025-05-15 01:44:33] Received raw data
+Data: {
+    "length": 17525,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-15 01:44:33] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 29
+}
+----------------------------
+[2025-05-15 01:44:33] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":66662,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":29}"
+}
+----------------------------
+[2025-05-15 22:49:57] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "18239"
+}
+----------------------------
+[2025-05-15 22:49:57] Received raw data
+Data: {
+    "length": 18239,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-15 22:49:57] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 30
+}
+----------------------------
+[2025-05-15 22:49:57] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":69264,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":30}"
+}
+----------------------------
+[2025-05-16 22:09:18] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "18821"
+}
+----------------------------
+[2025-05-16 22:09:18] Received raw data
+Data: {
+    "length": 18821,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-16 22:09:18] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 31
+}
+----------------------------
+[2025-05-16 22:09:18] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":71296,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":31}"
+}
+----------------------------
+[2025-05-20 02:22:02] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "19247"
+}
+----------------------------
+[2025-05-20 02:22:02] Received raw data
+Data: {
+    "length": 19247,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-20 02:22:02] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 32
+}
+----------------------------
+[2025-05-20 02:22:02] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":72734,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":32}"
+}
+----------------------------
+[2025-05-22 03:37:10] Received request
+Data: {
+    "method": "POST",
+    "content_type": "application\/json",
+    "content_length": "19533"
+}
+----------------------------
+[2025-05-22 03:37:10] Received raw data
+Data: {
+    "length": 19533,
+    "snippet": "{\"action\":\"saveWorkouts\",\"data\":{\"workoutHistory\":{\"Jared_2025-02-25\":{\"Barbell Bench Press\":{\"sets\"..."
+}
+----------------------------
+[2025-05-22 03:37:10] Parsed JSON data structure
+Data: {
+    "top_level_keys": [
+        "action",
+        "data"
+    ],
+    "has_action": true,
+    "has_data": true,
+    "data_keys": [
+        "workoutHistory"
+    ],
+    "workout_history_count": 33
+}
+----------------------------
+[2025-05-22 03:37:10] Forwarded to save_workouts.php
+Data: {
+    "status": 200,
+    "error": "none",
+    "response_length": 190,
+    "response": "{\"success\":true,\"message\":\"Workout data saved successfully\",\"bytes_written\":73594,\"file_path\":\"\\\/home\\\/u369270777\\\/domains\\\/motorolascada.com\\\/public_html\\\/workouts.json\",\"workout_count\":33}"
+}
+----------------------------

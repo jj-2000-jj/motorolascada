@@ -1,0 +1,19 @@
+{
+  "name": "Shred Workout Tracker",
+  "description": "A web-based application for tracking workouts and fitness progress",
+  "repository": "https://github.com/jj-2000-jj/shred.git",
+  "scripts": {
+    "postdeploy": "./setup.sh"
+  },
+  "env": {
+    "PORT": {
+      "description": "The port on which the application will run",
+      "value": "8000"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+} 

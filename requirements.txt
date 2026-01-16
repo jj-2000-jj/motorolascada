@@ -1,0 +1,2 @@
+# This is a PHP project and doesn't require Python packages
+# This file exists only to satisfy deployment processes that expect a requirements.txt file 

@@ -1,0 +1,27 @@
+# Apache configuration for API routing
+# Prevent direct access to data files
+<FilesMatch "\.json$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Exception for workouts.json to make it accessible
+<Files "workouts.json">
+    Order allow,deny
+    Allow from all
+    # Add cache control headers to prevent caching
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+</Files>
+
+# Route all /api requests to api.php
+RewriteEngine On
+RewriteBase /shred/
+RewriteRule ^api(/.*)?$ api.php [L,QSA]
+
+# Protect the data directory
+<Directory "/data">
+    Order deny,allow
+    Deny from all
+</Directory>

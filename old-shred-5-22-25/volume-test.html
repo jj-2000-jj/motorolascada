@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume Calculation Test</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            overflow: auto;
+        }
+        .test-results {
+            margin-top: 20px;
+        }
+        .pass {
+            color: #22c55e;
+        }
+        .fail {
+            color: #ef4444;
+        }
+        summary {
+            cursor: pointer;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Volume Calculation Test</h1>
+    <p>This page tests the centralized volume calculation function to ensure it correctly handles all input scenarios.</p>
+    
+    <div class="test-results">
+        <h2>Test Results</h2>
+        <div id="results">
+            <p>Running tests... If results don't appear, check the console for errors.</p>
+        </div>
+    </div>
+    
+    <details>
+        <summary>Test Cases</summary>
+        <pre id="testCasesDisplay"></pre>
+    </details>
+    
+    <script>
+        // Define a simplified version of the window.state for app.js
+        window.state = {
+            exerciseData: {},
+            workoutHistory: {}
+        };
+    </script>
+    
+    <!-- Load the app.js script that contains calculateVolume function -->
+    <script src="js/app.js"></script>
+    
+    <!-- Run tests and display results -->
+    <script>
+        // Function to display test results in the UI
+        function displayResults(testCases, results) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            
+            let passCount = 0;
+            let failCount = 0;
+            
+            results.forEach((result, index) => {
+                const test = testCases[index];
+                const passed = result.passed;
+                
+                const resultElem = document.createElement('div');
+                resultElem.className = passed ? 'pass' : 'fail';
+                resultElem.innerHTML = `
+                    <p><strong>Test "${test.name}":</strong> ${passed ? 'PASSED' : 'FAILED'}</p>
+                    <p>Expected: ${test.expected}, Got: ${result.value}</p>
+                `;
+                
+                resultsDiv.appendChild(resultElem);
+                
+                if (passed) {
+                    passCount++;
+                } else {
+                    failCount++;
+                }
+            });
+            
+            // Add summary
+            const summary = document.createElement('div');
+            summary.innerHTML = `
+                <h3>Summary</h3>
+                <p><strong>${passCount}</strong> tests passed, <strong>${failCount}</strong> tests failed</p>
+            `;
+            resultsDiv.appendChild(summary);
+            
+            // Display test cases in the details section
+            document.getElementById('testCasesDisplay').textContent = JSON.stringify(testCases, null, 2);
+        }
+        
+        // Wait a short time to ensure app.js is loaded
+        setTimeout(() => {
+            if (!window.calculateVolume) {
+                document.getElementById('results').innerHTML = '<p class="fail">Error: calculateVolume function not found!</p>';
+                return;
+            }
+            
+            // Define test cases
+            const testCases = [
+                {
+                    name: 'Normal values',
+                    sets: [
+                        { weight: '100', reps: '10' },
+                        { weight: '110', reps: '8' },
+                        { weight: '120', reps: '6' }
+                    ],
+                    expected: 2600 // (100*10 + 110*8 + 120*6)
+                },
+                {
+                    name: 'Empty values',
+                    sets: [
+                        { weight: '', reps: '10' },
+                        { weight: '100', reps: '' },
+                        { weight: '', reps: '' }
+                    ],
+                    expected: 0 // Empty values should be treated as 0
+                },
+                {
+                    name: 'Text/invalid values',
+                    sets: [
+                        { weight: 'abc', reps: '10' },
+                        { weight: '100', reps: 'xyz' },
+                        { weight: 'N/A', reps: 'N/A' }
+                    ],
+                    expected: 0 // Invalid values should be treated as 0
+                },
+                {
+                    name: 'Zero values',
+                    sets: [
+                        { weight: '0', reps: '10' },
+                        { weight: '100', reps: '0' },
+                        { weight: '0', reps: '0' }
+                    ],
+                    expected: 0 // Anything multiplied by 0 is 0
+                },
+                {
+                    name: 'Mixed valid and invalid',
+                    sets: [
+                        { weight: 'abc', reps: '10' }, // Invalid: 0
+                        { weight: '100', reps: '8' },  // Valid: 800
+                        { weight: '120', reps: '' }    // Invalid: 0
+                    ],
+                    expected: 800 // Only the second set should contribute
+                },
+                {
+                    name: 'Decimal values',
+                    sets: [
+                        { weight: '95.5', reps: '10' },
+                        { weight: '100.25', reps: '8' }
+                    ],
+                    expected: 1757 // (95.5*10 + 100.25*8) = 1757
+                },
+                {
+                    name: 'Invalid input: null',
+                    sets: null,
+                    expected: 0
+                },
+                {
+                    name: 'Invalid input: not an array',
+                    sets: { weight: '100', reps: '10' },
+                    expected: 0
+                },
+                {
+                    name: 'Empty array',
+                    sets: [],
+                    expected: 0
+                }
+            ];
+            
+            // Run tests
+            const results = testCases.map(test => {
+                const value = window.calculateVolume(test.sets);
+                const rounded = Math.round(value); // Round to handle possible floating point issues
+                const passed = rounded === test.expected;
+                
+                return { value, rounded, passed };
+            });
+            
+            // Display results
+            displayResults(testCases, results);
+        }, 500);
+    </script>
+</body>
+</html> 

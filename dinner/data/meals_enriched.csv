@@ -1,0 +1,32 @@
+Category,Main,Side 1,Side 2,Main_Recipe_ID,Side1_Recipe_ID,Side2_Recipe_ID
+Italian,Manicotti,Garlic bread,Caesar salad,manicotti,garlic-bread,caesar-salad
+Italian,Carbonara,Roasted asparagus,Garlic breadsticks,carbonara,roasted-asparagus,garlic-breadsticks
+Italian,Lasagna,French bread,Salad,lasagna,french-bread,salad
+Italian,Spaghetti,French bread,Salad,spaghetti,french-bread,salad
+Italian,Chicken parmesan,Salad,Garlic bread,chicken-parmesan,salad,garlic-bread
+Poultry,Chicken roast,Mashed potatoes,Sourdough Bread,chicken-roast,mashed-potatoes,sourdough-bread
+Poultry,Chicken noodle soup,Garden salad,Peasant bread,chicken-noodle-soup,garden-salad,peasant-bread
+Poultry,Chicken enchiladas,Tortilla chips,Salad,chicken-enchiladas,tortilla-chips,salad
+Poultry,Teriyaki chicken,Rice,Broccoli,teriyaki-chicken,rice,broccoli
+Beef & Pork,Meat loaf,Mashed potatoes,Roasted carrots,meat-loaf,mashed-potatoes,roasted-carrots
+Beef & Pork,Pot roast,Roasted potatoes,Glazed carrots,pot-roast,roasted-potatoes,glazed-carrots
+Beef & Pork,Smoked tri tip,Rolls,Salad,smoked-tri-tip,rolls,salad
+Beef & Pork,Rueben sandwich,Potato chips,Coleslaw,rueben-sandwich,potato-chips,coleslaw
+Beef & Pork,Pulled pork sandwiches,Coleslaw,Pickles,pulled-pork-sandwiches,coleslaw,pickles
+Easy & Hearty,BLTs,Chips,Fruit,blts,chips,fruit
+Easy & Hearty,White Chicken Chili,Cornbread,Salad,white-chicken-chili,cornbread,salad
+Easy & Hearty,Cheeseburgers,Chips,Coleslaw,cheeseburgers,chips,coleslaw
+Easy & Hearty,Hot dogs,Baked beans,Potato salad,hot-dogs,baked-beans,potato-salad
+Easy & Hearty,Carnitas tacos,Mexican street corn,Black beans,carnitas-tacos,mexican-street-corn,black-beans
+Easy & Hearty,Eggs,Pancakes,Bacon,eggs,pancakes,bacon
+Easy & Hearty,Quesadillas,Salsa,Guacamole,quesadillas,salsa,guacamole
+Easy & Hearty,Chile Verde Omelette (Pancake House),nan,nan,chile-verde-omlette-pancake-house,,
+Easy & Hearty,Grilled cheese,Tomato soup,nan,grilled-cheese,tomato-soup,
+Easy & Hearty,Shrimp stir fry,Rice,Edamame,shrimp-stir-fry,rice,edamame
+Easy & Hearty,Stir-fried rice,Veggies,Egg,stir-fried-rice,veggies,egg
+Easy & Hearty,French Toast,Eggs,nan,french-toast,eggs,
+Seafood,Grilled mahi mahi,Rolls,Corn on cob,grilled-mahi-mahi,rolls,corn-on-cob
+Seafood,Breaded cod,Mashed potatoes,Broccoli,breaded-cod,mashed-potatoes,broccoli
+Seafood,Smoked salmon,Asparagus,Rice pilaf,smoked-salmon,asparagus,rice-pilaf
+Seafood,Salmon in oven,Sweet Potatoes,Green salad,salmon-in-oven,sweet-potatoes,green-salad
+Seafood,Shrimp tacos,Slaw,Lime crema,shrimp-tacos,slaw,lime-crema

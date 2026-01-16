@@ -1,0 +1,526 @@
+dish_id,dish_name,course,category,servings,prep_minutes,cook_minutes,difficulty,method,ingredients,steps,inactive_before_minutes,inactive_after_minutes
+manicotti,Manicotti,Main,Italian,6,20,55,Medium,Bake,"1 (15 ounce) container ricotta cheese
+1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry
+1/2 cup minced onion
+1 large egg
+2 teaspoons minced fresh parsley
+1/2 teaspoon pepper
+1/4 teaspoon garlic powder
+1 1/2 cups shredded mozzarella cheese, divided
+1/2 cup grated Parmesan cheese, divided
+1 (8 ounce) package manicotti shells
+2 (26 ounce) jars spaghetti sauce
+1 1/2 cups water","1. Preheat oven to 350°F.
+2. Mix ricotta, spinach, onion, egg, parsley, pepper, garlic powder, 1 cup mozzarella, and 1/4 cup Parmesan. Stuff uncooked shells.
+3. Mix spaghetti sauce and water. Spread 1 cup in 9x13 dish. Arrange shells. Top with remaining sauce, mozzarella, and Parmesan.
+4. Bake 45-55 minutes until tender.",0,5
+garlic-bread,Garlic bread,Side,Side,8,10,15,Easy,Bake,"1/2 cup butter
+1 1/2 tbsp garlic powder
+1 tbsp dried parsley
+1 (1 lb) loaf Italian bread, sliced
+1 (8 oz) pkg shredded mozzarella cheese","1. Preheat oven to 350°F.
+2. Melt butter; stir in garlic powder and parsley.
+3. Brush bread slices with butter mixture.
+4. Bake 10 minutes.
+5. Top with mozzarella; bake 5 minutes more until melted.",0,0
+caesar-salad,Caesar salad,Side,Side,2,15,0,Medium,No-cook,"3 anchovy fillets
+2 clove garlic, chopped
+1/2 lemon, juiced
+2 tbsp red wine vinegar
+1 egg yolk
+1 tbsp Dijon mustard
+1 dash Worcestershire sauce
+1/4 cup olive oil
+1/2 head romaine lettuce, chopped
+1/4 cup grated Parmesan
+2 tbsp croutons","1. Mash anchovies and garlic. Whisk in lemon juice, vinegar, mustard, yolk, Worcestershire.
+2. Gradually whisk in oil until creamy. Season.
+3. Toss romaine and Parmesan with dressing. Top with croutons.",0,0
+carbonara,Carbonara,Main,Italian,4,15,20,Medium,Stovetop,"2 tsp olive oil
+1 lb guanciale (or bacon), diced
+1 lb spaghetti
+3 large eggs
+10 tbsp Pecorino Romano cheese
+Black pepper","1. Brown guanciale in oil until crispy; drain.
+2. Boil spaghetti. Whisk eggs, half the cheese, and pepper.
+3. Drain pasta (reserve water). Toss hot pasta with egg mixture quickly (off heat) to create sauce.
+4. Stir in guanciale. Top with remaining cheese and pepper.",0,0
+roasted-asparagus,Roasted asparagus,Side,Side,6,10,20,Easy,Roast,"2 lb asparagus, trimmed
+2 tbsp olive oil
+Salt & pepper
+3 tbsp balsamic vinegar","1. Preheat oven to 400°F.
+2. Toss asparagus with oil, salt, and pepper in a dish.
+3. Bake 15-20 minutes until browned.
+4. Drizzle with balsamic vinegar before serving.",0,0
+garlic-breadsticks,Garlic breadsticks,Side,Side,10,20,25,Easy,Bake,"2 1/2 cups bread flour
+3 tsp instant yeast
+1 tbsp sugar
+1/2 tsp salt
+3/4 tsp Italian seasoning
+1 tbsp minced garlic
+1/4 cup grated Parmesan cheese
+1 tbsp butter, softened
+1/4 cup hot water
+1/2 cup milk
+1 egg
+TOPPING: 1/4 cup melted butter, 1/2 cup Parmesan","1. Pulse flour, yeast, sugar, salt, seasoning, garlic, 1/4 cup Parmesan, soft butter in food processor.
+2. Mix hot water, milk, egg; pour into processor while running. Knead 30 sec (or by hand).
+3. Rise in oiled bowl 1 hour.
+4. Roll to 10x12 rectangle. Cut into strips. Brush with melted butter, sprinkle with Parmesan. Rise 30 min.
+5. Bake at 375°F for 18-23 min. Broil 2-3 min to brown.",0,90
+lasagna,Lasagna (World's Best),Main,Italian,12,30,150,Hard,Bake,"1 lb sweet Italian sausage
+3/4 lb lean ground beef
+1/2 cup minced onion
+2 cloves garlic, crushed
+1 (28 ounce) can crushed tomatoes
+2 (6 ounce) cans tomato paste
+2 (6.5 ounce) cans tomato sauce
+1/2 cup water
+2 tbsp white sugar
+1 1/2 tsp dried basil
+1/2 tsp fennel seeds
+1 tsp Italian seasoning
+1 tbsp salt
+4 tbsp chopped fresh parsley
+12 lasagna noodles
+16 oz ricotta cheese
+1 egg
+3/4 lb mozzarella cheese, sliced
+3/4 cup grated Parmesan cheese","1. Brown sausage, beef, onion, and garlic. Stir in tomatoes, pastes, sauce, water, sugar, spices. Simmer covered 1.5 hours.
+2. Boil noodles 8-10 min; drain. Mix ricotta, egg, parsley, salt.
+3. Spread 1.5 cups sauce in 9x13 dish. Layer 6 noodles, 1/2 ricotta mix, 1/3 mozzarella, 1.5 cups sauce, 1/4 cup Parmesan. Repeat. Top with remaining mozzarella/Parmesan.
+4. Bake covered at 375°F for 25 min; uncover and bake 25 min longer. Rest 15 min.",0,15
+french-bread,French Bread,Side,Side,10,20,25,Medium,Bake,"6 cups all-purpose flour
+2.5 pkg active dry yeast
+2 cups warm water
+1 tbsp salt
+1 tbsp cornmeal (for pan)
+1 egg white (for wash)
+1 tbsp water","1. Combine 2 cups flour, yeast, salt, warm water. Beat. Stir in remaining flour.
+2. Knead 8-10 min. Rise 1 hr.
+3. Divide in half. Roll each into rectangle, roll up tightly, seal. Place on cornmeal-dusted sheet. Brush with egg white/water. (Rise again ~30-40 min).
+4. Bake at 375°F for 20-25 min.",0,90
+salad,Salad (Olive Garden Copycat),Side,Side,4,20,0,Medium,No-cook,"1 bag salad mix (Romaine/Iceberg)
+1/2 cup croutons
+2 tomatoes, quartered
+1/4 cup black olives
+4 pepperoncini peppers
+1/4 cup red onion, sliced
+1/4 cup Parmesan cheese
+DRESSING: 1/2 cup mayo, 1/4 cup white vinegar, 2 tbsp oil, 2 tbsp corn syrup, garlic powder, Italian seasoning","1. Whisk dressing ingredients (mayo, vinegar, oil, syrup, spices). Chill.
+2. Toss salad ingredients in a large bowl.
+3. Serve with dressing on the side or tossed.",0,0
+spaghetti,Spaghetti with Meat Sauce,Main,Italian,6,15,30,Easy,Stovetop,"1 lb ground beef
+1 onion, diced
+3 cloves garlic, minced
+1 (28 oz) can crushed tomatoes
+1 (15 oz) can tomato sauce
+1 tsp dried oregano
+1 tsp dried basil
+1/2 tsp salt
+1 lb spaghetti","1. Brown beef and onion; drain. Add garlic, cook 1 min.
+2. Stir in crushed tomatoes, tomato sauce, oregano, basil, salt. Simmer 20 min.
+3. Boil spaghetti. Serve topped with sauce.",0,0
+chicken-parmesan,Chicken Parmesan,Main,Italian,4,25,20,Medium,Stovetop/Bake,"3 chicken breast halves (boneless/skinless)
+2 eggs, beaten
+1/3 cup bread crumbs
+1/2 tsp oregano
+2 tbsp Parmesan
+3 tbsp olive oil
+3/4 cup Mozzarella cheese
+SAUCE: 1 tbsp butter, garlic, onion, 1 can diced tomatoes, 1/4 cup heavy cream","1. Sauce: Sauté onion/garlic in butter. Add tomatoes, simmer 10 min. Add cream. salt/pepper.
+2. Chicken: Tenderize. Dip in egg, then breadcrumb/Parmesan/oregano mix.
+3. Fry chicken in oil ~5 min/side to 158°F.
+4. Top with sauce and Mozzarella; heat until melted.",0,0
+chicken-roast,The Best Roasted Chicken,Main,Poultry,6,15,60,Medium,Roast,"1 whole chicken
+1/4 cup butter, softened
+4 cloves garlic, chopped
+1 tbsp fresh thyme
+1 tbsp fresh rosemary
+1 lemon, zested and halved
+1 tsp salt
+1 tsp pepper
+1 tbsp olive oil","1. Preheat oven to 400°F. Mix butter, garlic, thyme, rosemary, zest, salt/pepper.
+2. Loosen skin; rub butter mix under skin. Rub oil/salt/pepper outside. Stuff lemon inside.
+3. Roast 1 hour (basting halfway) to 165°F thigh temp. Rest 15 min.",0,15
+mashed-potatoes,The Best Mashed Potatoes,Side,Side,6,15,15,Easy,Boil,"2 lb Yukon Gold potatoes, sliced
+1 cup Cream
+1.5 TBSP butter 
+1 tsp Salt and pepper ","1. Boil potatoes in salted water 20 min. Drain; dry in pot 1-2 min. Then rice.
+2. Warm cream and butter in pot. Add to potatoes along with salt, pepper.
+",0,0
+sourdough-bread,Sourdough Bread,Side,Side,10,30,45,Hard,Bake,"1 1/2 cups warm water
+1 cup sourdough starter
+1/2 cup corn oil
+1/2 cup sugar
+1 1/2 tsp salt
+6 cups bread flour","1. Mix water, starter, oil, sugar, salt. Sift in flour. Rise overnight in oiled bowl.
+2. Divide in half; place in 2 loaf pans. Knead/shape if needed. Rise until doubled (2-4 hrs).
+3. Bake 350°F for 40-45 min until hollow sounding.",0,720
+chicken-noodle-soup,Chicken Noodle Soup,Main,Poultry,6,20,40,Medium,Stovetop,"2 tbsp butter
+1 onion, diced
+2 carrots, sliced
+2 celery stalks, sliced
+3 cloves garlic, minced
+8 cups chicken stock
+1/2 tsp dried thyme (or 1 tbsp fresh)
+1 tsp turmeric (optional)
+3 cups cooked chicken, chopped
+3 cups wide egg noodles
+1/2 cup heavy cream (optional)","1. Sauté onion, carrots, celery in butter/oil 5 min. Add garlic.
+2. Add stock, thyme, turmeric, salt/pepper. Boil, then simmer 10 min.
+3. Add noodles and chicken. Cook 8-10 min until noodles tender. Stir in cream.",0,0
+garden-salad,Owl Garden Copycat Salad,Side,Side,4,20,0,Medium,No-cook,"1 bag salad mix (Romaine/Iceberg)
+1/2 cup croutons
+2 tomatoes, quartered
+1/4 cup black olives
+4 pepperoncini peppers
+1/4 cup red onion, sliced
+1/4 cup Parmesan cheese
+DRESSING: 1/2 cup mayo, 1/4 cup white vinegar, 2 tbsp oil, 2 tbsp corn syrup, garlic powder, Italian seasoning","1. Whisk dressing ingredients (mayo, vinegar, oil, syrup, spices). Chill.
+2. Toss salad ingredients in a large bowl.
+3. Serve with dressing on the side or tossed.",0,0
+peasant-bread,Peasant Bread,Side,Side,8,15,135,Medium,Bake,"4 cups all-purpose flour
+2 tsp sugar
+2 tsp salt
+2 1/4 tsp instant yeast
+2 cups warm water
+1 tbsp butter (for greasing)","1. Mix flour, sugar, salt, yeast. Stir in warm water to form sticky dough.
+2. Cover measure; rise 1.5 hr or until doubled.
+3. Deflate. Divide into 2 buttered Pyrex bowls. Rise 20-30 min.
+4. Bake at 425°F for 15 min, then 375°F for 15-20 min until golden.",0,90
+chicken-enchiladas,Easy Chicken Enchiladas,Main,Mexican,6,20,25,Medium,Bake,"8 flour tortillas
+3 cups cooked chicken, shredded
+2 cups shredded cheddar/jack cheese
+1 (15 oz) can enchilada sauce
+1 (4 oz) can green chilies
+1/2 cup sour cream
+Cilantro","1. Mix chicken, 1 cup cheese, green chilies, sour cream.
+2. Fill tortillas, roll, place in baking dish.
+3. Pour enchilada sauce over rolls; top with remaining cheese.
+4. Bake 20-25 min at 350°F until bubbly.",0,0
+tortilla-chips,Baked Tortilla Chips,Side,Side,6,10,15,Easy,Bake,"10 corn tortillas
+1 tbsp vegetable oil (spray or brush)
+1 tsp salt
+Lime juice (optional)","1. Cut tortillas into wedges.
+2. Spray or brush with oil; toss with salt and lime juice.
+3. spread on baking sheet. Bake at 350°F for 10-15 min, turning halfway, until crisp.",0,0
+teriyaki-chicken,Easy Teriyaki Chicken,Main,Asian,4,20,15,Medium,Stovetop,"1.5 lb chicken breast, bite-sized
+1/4 cup cornstarch
+2 tbsp oil
+SAUCE: 1/2 cup soy sauce, 1/4 cup water, 3 tbsp brown sugar, 1 tbsp honey, 1 tsp ginger, 1 tsp garlic, 1 tbsp rice vinegar","1. Toss chicken in cornstarch. Fry in oil until brown/cooked.
+2. Whisk sauce ingredients. Pour into pan with chicken.
+3. Simmer until sauce thickens and coats chicken.",0,15
+r,,,,,,,,,,,0,0
+rice,Sarah's Rice Pilaf,Side,Side,6,10,25,Easy,Boil,"1/2 cup orzo pasta
+1/2 cup white rice
+2 tbsp butter
+1/2 cup diced onion
+2 cloves garlic, minced
+2 cups chicken broth","1. Melt butter. Sauté orzo and onion until golden. Add garlic.
+2. Stir in rice and chicken broth. Bring to boil.
+3. Cover, reduce heat to low, simmer 20 min. Fluff with fork.",0,0
+broccoli,Broccoli,Side,Side,5,5,18,Easy,Roast,"2 lb broccoli florets
+3 tbsp olive oil
+1 tsp kosher salt
+1/2 tsp black pepper
+2 tsp lemon juice (optional)","1. Heat oven to 425°F. Toss broccoli with oil, salt, pepper.
+2. Roast 16–18 minutes, tossing once, until edges are browned.",0,0
+meat-loaf,Best Ever Meat Loaf,Main,American,8,15,75,Medium,Bake,"1.5 lb ground beef
+1 egg, beaten
+1 onion, chopped
+1 cup cheddar cheese
+1/2 cup carrot, chopped
+2/3 cup milk
+3 slices bread, crumbled
+2 tsp salt, 1/4 tsp pepper
+GLAZE: 1/4 cup ketchup, 1/4 cup brown sugar, 1 tbsp mustard","1. Mix beef, egg, onion, cheese, carrot, milk, crumbs, spices. Form loaf.
+2. Mix glaze ingredients. Spread over loaf.
+3. Bake at 350°F for 1 hour.",0,0
+roasted-carrots,Roasted Parmesan Garlic Carrots,Side,Side,6,5,30,Easy,Roast,"1 lb carrots, peeled and sliced/halved
+1 tbsp olive oil
+1/2 tsp garlic salt
+1/4 cup grated Parmesan cheese","1. Toss carrots with oil and garlic salt.
+2. Roast at 400°F for 20 minutes.
+3. Sprinkle with Parmesan. Roast 5-10 min until tender/crisp.",0,0
+pot-roast,Slow Cooker Pot Roast (3-Packet),Main,Beef,8,15,480,Easy,Slow Cook,"3-4 lb chuck roast
+1 packet Ranch dressing mix
+1 packet Italian dressing mix
+1 packet Brown Gravy mix
+1/2 cup water
+1 onion, sliced","1. Place roast and onion in slow cooker.
+2. Mix Ranch, Italian, and Gravy packets with water. Pour over roast.
+3. Cook on Low for 8-10 hours until tender.",0,30
+roasted-potatoes,Oven Roasted Potatoes,Side,Side,6,15,30,Easy,Roast,"2.5 lb potatoes (Yukon/Red), cubed
+1/3 cup olive oil
+1 tsp salt, 1/2 tsp pepper
+2 tsp dried herbs (basil/oregano/thyme)
+1 tsp garlic powder","1. Preheat oven to 475°F.
+2. Toss potatoes with oil and all seasonings until coated.
+3. Roast in single layer 20-30 min, turning once, until crispy and tender.",0,30
+glazed-carrots,Chef John's Glazed Carrots,Side,Side,6,10,20,Easy,Stovetop,"2 lb carrots, peeled and sliced
+1/4 cup butter
+1/4 cup brown sugar
+1/4 cup Bourbon (or orange juice)
+1/2 tsp salt, pinch cayenne","1. Simmer carrots in salted water until just tender; drain.
+2. Melt butter in pan; add sugar, liquid, salt, cayenne.
+3. Toss carrots in glaze; cook 5 min until glazed and shiny.",0,0
+smoked-tri-tip,Smoked Tri Tip Roast,Main,Beef,8,10,120,Medium,Smoker,"2.5-3 lb Tri-Tip roast
+RUB: 2 tsp salt, 2 tsp pepper, 2 tsp garlic powder, 1 tsp onion powder, 1 tsp paprika, 1 tsp brown sugar","1. Mix rub ingredients. Season roast thoroughly.
+2. Heat smoker to 225°F. Smoke until internal temp 130°F (approx 60-90 min).
+3. Optional: Sear 1-2 min per side in hot skillet. Rest 15 min slice against grain.",0,10
+rolls,Angie's Perfect Dinner Rolls,Side,Side,10,30,20,Hard,Bake,"7 cups all-purpose flour
+2.5 cups warm milk
+1/2 cup sugar
+1/2 cup butter, softened
+2 eggs
+2 tsp salt
+4 tsp yeast","1. Dissolve yeast in warm milk/sugar. Mix with butter, eggs, salt, flour. Knead smooth. Rise 1 hr.
+2. Shape into 24 rolls. Place on sheet. Rise 30 min.
+3. Bake 350°F 15-20 min. Brush with melted butter.",0,0
+rueben-sandwich,Classic Reuben Sandwich,Main,Beef,6,15,15,Medium,Stovetop,"8 slices rye bread
+1 lb sliced corned beef
+1 cup sauerkraut, drained well
+8 slices Swiss cheese
+1/2 cup Russian Dressing (Mayo, Ketchup, relish, horseradish)
+Butter for grilling","1. Butter one side of bread. Spread dressing on unbuttered side.
+2. Layer Swiss, corned beef, sauerkraut, Swiss. Top with bread.
+3. Grill in skillet 3-4 min/side until golden and melted.",0,0
+potato-chips,Homestyle Potato Chips,Side,Side,6,30,20,Medium,Fry,"4 Russet potatoes
+Oil for frying
+Salt","1. Slice potatoes thin. Soak in cold water (optional salt soak 30 min). Dry thoroughly.
+2. Heat oil to 365°F. Fry in batches until golden crisp.
+3. Drain on rack/paper towel. Salt immediately.",0,0
+coleslaw,Restaurant-Style Coleslaw II,Side,Side,5,15,0,Easy,No-cook,"1 head cabbage, finely chopped (8 cups)
+1/4 cup shredded carrot
+DRESSING: 1/2 cup mayo, 1/3 cup sugar, 1/4 cup milk, 1/4 cup buttermilk, 2.5 tbsp lemon juice, 1.5 tbsp vinegar, salt/pepper","1. Whisk dressing ingredients until smooth.
+2. Toss with cabbage and carrots.
+3. Chill at least 2 hours before serving.",0,120
+pulled-pork-sandwiches,Slow Cooker Texas Pulled Pork,Main,Pork,8,20,480,Easy,Slow Cook,"4 lb pork shoulder roast
+1 cup BBQ sauce
+1/2 cup cider vinegar
+1/2 cup chicken broth
+1/4 cup brown sugar
+1 tbsp mustard, 1 tbsp chili powder, 1.5 tsp thyme
+1 onion chopped, 2 cloves garlic","1. Place pork in slow cooker.
+2. Mix all other ingredients; pour over pork.
+3. Cook Low 8-10 hours. Shred and serve on buns.",0,30
+pickles,Mona's Easy Refrigerator Pickles,Side,Side,5,15,0,Easy,No-cook,"4-5 cucumbers, sliced
+2 onions, sliced
+BRINE: 1 1/3 cup sugar, 1 cup vinegar, 2 tbsp salt","1. Pack cucumbers and onions into jars.
+2. Whisk sugar, vinegar, and salt until dissolved (or heat and cool).
+3. Pour over cucumbers. Refrigerate 24 hours.",0,1440
+blts,Ultimate BLT,Main,Easy & Hearty,6,10,20,Easy,Stovetop/Oven,"1 lb thick-cut bacon
+8 slices sourdough/country bread, toasted
+1/2 cup mayonnaise
+2 large tomatoes, sliced
+Salt & Pepper
+Lettuce leaves","1. Bake bacon on rack at 400°F 15-20 min until crisp.
+2. Spread mayo on toast.
+3. Layer lettuce, seasoned tomato slices, and generous bacon. Slice and serve.",0,0
+chips,Chips,Side,Side,5,2,0,Easy,No-cook,1 family-size bag potato chips,1. Open bag and serve in a bowl.,0,0
+fruit,Fruit,Side,Side,5,10,0,Easy,No-cook,"2.5 lb mixed fruit (berries, melon, grapes)
+Juice of 1/2 lemon (optional)",1. Cube/slice fruit and toss gently with lemon juice.,0,0
+white-chicken-chili,White Chicken Chili,Main,Easy & Hearty,5,15,40,Easy,Stovetop,"1 tbsp oil
+1 onion, diced
+2 (4-oz) cans diced green chiles
+2 tsp cumin
+1 tsp oregano
+6 cups chicken broth
+3 cups shredded cooked chicken
+3 (15-oz) cans white beans, rinsed
+1/2 cup sour cream
+1/2 cup half-and-half (or milk)
+Salt & pepper","1. Sauté onion in oil; brown beef with chili powder, cumin, salt.
+2. Stir in crushed tomatoes and beans; simmer gently 30–45 minutes; adjust seasoning.",0,0
+cornbread,Cornbread,Side,Side,5,5,20,Easy,Bake,"2 boxes cornbread mix (8.5 oz each)
+Ingredients per package (usually eggs & milk)",1. Prepare batter per package. Bake in 9x13 pan 18–22 minutes.,0,0
+cheeseburgers,Cheeseburgers,Main,Easy & Hearty,5,10,10,Easy,Grill/Stovetop,"2 lb 80/20 ground beef
+5 hamburger buns
+5 slices cheddar or American cheese
+1 tsp kosher salt
+1/2 tsp black pepper
+Oil for grill or skillet","1. Form 5 patties; season with salt & pepper.
+2. Cook on hot grill/skillet 3–4 min/side to desired doneness (160°F for well‑done).
+3. Add cheese to melt; serve on buns.",0,0
+hot-dogs,Hot dogs,Main,Easy & Hearty,5,2,8,Easy,Grill/Boil,"10 hot dogs
+10 hot dog buns
+Condiments (ketchup, mustard, relish)","1. Grill or boil hot dogs 5–8 minutes.
+2. Serve in buns with condiments.",0,0
+baked-beans,Baked beans,Side,Side,5,5,25,Easy,Bake,"2 (28-oz) cans baked beans
+2 tbsp brown sugar (optional)
+1 tbsp mustard (optional)","1. Bake beans at 350°F until bubbly, 20–25 minutes; stir in sugar/mustard if desired.",0,0
+potato-salad,Potato salad,Side,Side,5,15,15,Easy,Boil/No-cook,"2.5 lb Yukon gold potatoes, 1-inch cubes
+3/4 cup mayonnaise
+2 tbsp mustard
+1/2 cup chopped celery
+1/4 cup chopped red onion
+1 tsp kosher salt
+1/2 tsp pepper","1. Boil potatoes until tender; drain and cool.
+2. Toss with remaining ingredients; chill.",0,0
+carnitas-tacos,Carnitas tacos,Main,Easy & Hearty,5,10,480,Easy,Slow cooker,"3.5 lb pork shoulder
+1 tbsp kosher salt
+1 tbsp chili powder
+1 tsp cumin
+1 tsp oregano
+1 cup orange juice
+15 small corn tortillas","1. Season pork and slow cook on LOW ~8 hours with orange juice.
+2. Shred; crisp edges in a hot skillet if desired. Serve on warmed tortillas.",0,0
+mexican-street-corn,Mexican street corn,Side,Side,5,10,10,Easy,Stovetop,"4 cups frozen corn
+1 tbsp butter
+2 tbsp mayonnaise
+2 tbsp sour cream
+1/2 tsp chili powder
+1/2 tsp kosher salt
+2 tbsp chopped cilantro
+1 tbsp lime juice
+1/4 cup crumbled cotija (optional)","1. Sauté corn in butter until lightly charred.
+2. Off heat, stir in mayo, sour cream, chili powder, salt, cilantro, and lime. Top with cotija.",0,0
+black-beans,Black beans,Side,Side,5,5,10,Easy,Stovetop,"3 (15-oz) cans black beans, drained & rinsed
+1/2 cup salsa
+1 tsp cumin
+1/2 tsp garlic powder
+1/2 tsp kosher salt","1. Rinse beans. Combine with salsa, cumin, garlic powder, and salt; simmer 8–10 minutes.
+2. Mash a few beans to thicken if desired.",0,0
+eggs,Eggs,Main,Easy & Hearty,5,5,5,Easy,Stovetop,"10 eggs
+2 tbsp butter
+1/2 tsp kosher salt
+Black pepper, to taste",1. Cook eggs in butter over medium-low heat to desired doneness; season with salt and pepper.,0,0
+pancakes,Pancakes,Side,Side,5,5,15,Easy,Stovetop,"3 cups pancake mix (complete)
+2 1/4 cups water
+Butter or oil for griddle
+Maple syrup, to serve","1. Mix batter per package; rest 2 minutes.
+2. Cook pancakes on greased griddle 2–3 minutes per side.",0,0
+bacon,Bacon,Side,Side,5,2,18,Easy,Bake,1 lb thick-cut bacon,1. Bake on a rack over a sheet pan at 400°F for 16–20 minutes.,0,0
+quesadillas,Quesadillas,Main,Easy & Hearty,5,5,10,Easy,Stovetop,"10 flour tortillas (8-inch)
+3 cups shredded cheese (Monterey Jack/cheddar)
+Oil or butter for skillet","1. Heat tortilla in lightly oiled skillet; sprinkle cheese; top with another tortilla.
+2. Cook 2–3 minutes per side until golden and melted; cut into wedges.",0,0
+salsa,Salsa,Side,Side,5,2,0,Easy,No-cook,2 cups salsa (jarred),1. Serve salsa in bowls with chips; optionally stir in lime juice and cilantro.,0,0
+guacamole,Guacamole,Side,Side,5,10,0,Easy,No-cook,"5 ripe avocados, mashed with lime & salt","1. Mash avocados with 2 tbsp lime juice and 1 tsp salt.
+2. Optional: add 1/4 cup diced onion and cilantro.",0,0
+chile-verde-omlette-pancake-house,Chile Verde Omlette (Pancake House),Main,Easy & Hearty,5,10,10,Easy,Stovetop,"10 eggs
+1 cup prepared chile verde (jarred)
+1 cup shredded Monterey Jack cheese
+2 tbsp butter
+Salt & pepper","1. Whisk eggs with salt and pepper. Melt butter in nonstick skillet.
+2. Cook omelets in batches: add eggs, sprinkle cheese, fold, and top with warm chile verde.",0,0
+grilled-cheese,Grilled cheese,Main,Easy & Hearty,5,5,10,Easy,Stovetop,"10 slices sandwich bread
+10 slices cheddar or American cheese
+4 tbsp softened butter","1. Butter bread; sandwich cheese between slices.
+2. Cook in skillet over medium heat until golden and melty, 2–3 minutes per side.",0,0
+tomato-soup,Tomato soup,Side,Side,5,2,10,Easy,Stovetop,"2 (32-oz) cartons tomato soup (or 4 cans condensed + milk)
+1/2 cup cream or milk (optional)",1. Heat soup in saucepan; stir in cream to taste.,0,0
+shrimp-stir-fry,Shrimp stir fry,Main,Easy & Hearty,5,10,8,Easy,Stovetop,"2 lb large shrimp, peeled & deveined
+1 lb mixed stir-fry vegetables
+3 tbsp soy sauce
+2 tbsp oyster sauce (or teriyaki)
+2 tbsp oil
+2 cloves garlic, minced
+1 tsp grated ginger (optional)","1. Stir-fry shrimp in hot oil 2–3 minutes; remove.
+2. Sauté vegetables 3–4 minutes; add sauces and shrimp; toss until hot.",0,0
+edamame,Edamame,Side,Side,5,2,5,Easy,Boil/Steam,"2 lb frozen edamame in pods
+1 tbsp kosher salt (for water)
+Flaky salt to finish",1. Boil edamame 4–5 minutes. Drain and sprinkle with flaky salt.,0,0
+stir-fried-rice,Stir-fried rice,Main,Easy & Hearty,5,10,12,Easy,Stovetop,"5 cups cooked, chilled rice
+1 lb mixed frozen vegetables
+4 eggs, beaten
+3 tbsp soy sauce
+2 tbsp oil
+2 cloves garlic, minced
+1 tsp sesame oil (optional)","1. Heat oil; scramble eggs softly and set aside.
+2. Sauté garlic and vegetables 3–4 minutes; add rice and soy sauce; stir-fry until hot.
+3. Stir in eggs; finish with sesame oil.",0,0
+veggies,Veggies,Side,Side,5,5,8,Easy,Steam/Stovetop,"1.5 lb mixed vegetables (frozen blend)
+1/2 tsp kosher salt
+1 tbsp butter (optional)",1. Steam or microwave veggies until tender; season with salt and butter.,0,0
+egg,Egg,Side,Side,5,5,5,Easy,Stovetop,"5 eggs
+2 tbsp butter
+1/2 tsp kosher salt
+Black pepper, to taste",1. Cook eggs in butter over medium-low heat to desired doneness; season with salt and pepper.,0,0
+french-toast,French Toast,Main,Easy & Hearty,5,10,15,Easy,Stovetop,"10 thick slices bread (brioche/texas toast)
+6 eggs
+1 1/4 cups milk
+2 tbsp sugar
+1 tsp vanilla
+1/2 tsp cinnamon
+Butter for griddle","1. Whisk eggs, milk, sugar, vanilla, cinnamon.
+2. Dip bread and cook on buttered griddle 2–3 minutes per side.",0,0
+grilled-mahi-mahi,Grilled mahi mahi,Main,Seafood,5,10,10,Easy,Grill,"2.5 lb mahi-mahi fillets
+2 tbsp olive oil
+1 tsp kosher salt
+1/2 tsp pepper
+Lemon wedges","1. Heat and oil grill. Pat fillets dry; oil and season.
+2. Grill 3–4 minutes/side until opaque and flakes easily (130–135°F).",0,2
+corn-on-cob,Corn on cob,Side,Side,5,5,8,Easy,Boil,"5 ears corn, husked
+Butter, salt (to serve)",1. Boil corn 6–8 minutes until tender. Serve with butter and salt.,0,0
+breaded-cod,Parmesan-Crusted Baked Cod,Main,Seafood,6,15,20,Easy,Bake,"1.5 lb cod fillets
+1/3 cup mayonnaise (or buttermilk)
+1/2 cup grated Parmesan cheese
+1/2 cup panko breadcrumbs
+1 tsp dried parsley, 1/2 tsp paprika, salt/pepper","1. Preheat oven to 400°F. Line baking sheet with foil.
+2. Mix Parmesan, panko, parsley, paprika in a bowl.
+3. Brush cod with mayo (or dip in buttermilk); press into crumb mixture.
+4. Bake 15-20 min until fish flakes easily.",0,0
+smoked-salmon,Smoked Salmon Platter,Main,Seafood,8,15,0,Easy,No-cook,"8 oz smoked salmon
+8 oz cream cheese, softened
+1 tbsp lemon juice, 1 tbsp fresh dill
+1 cucumber, sliced
+Crackers or baguette slices
+Capers, red onion (optional)","1. Mix cream cheese with lemon juice and dill.
+2. Spread on cucumber slices or crackers.
+3. Top with smoked salmon and garnish with capers/onion.",0,0
+asparagus,Roasted Asparagus,Side,Side,6,5,15,Easy,Roast,"1 bunch asparagus, trimmed
+2 tbsp olive oil
+1 tbsp grated Parmesan cheese
+1 tsp garlic powder, salt, pepper","1. Preheat oven to 400°F.
+2. Toss asparagus with oil, garlic powder, salt, pepper.
+3. Roast 10-12 min. Sprinkle with Parmesan before serving.",0,0
+rice-pilaf,Classic Rice Pilaf,Side,Side,6,5,25,Easy,Stovetop,"1 cup long-grain white rice
+2 cups chicken broth
+2 tbsp butter
+1/2 cup diced onion
+1 clove garlic, minced","1. Melt butter. Sauté onion until tender. Add rice; cook/stir 2 min to toast.
+2. Add broth and garlic. Bring to boil.
+3. Cover, reduce heat to low, simmer 15-18 min. Rest 5 min. Fluff.",0,5
+salmon-in-oven,Best Baked Salmon,Main,Seafood,8,10,20,Easy,Bake,"1.5 lb salmon fillet
+2 tbsp olive oil
+1 tbsp lemon juice
+2 cloves garlic, minced
+1 tbsp fresh parsley, chopped
+Salt & Pepper","1. Whisk oil, lemon juice, garlic, parsley, salt, pepper.
+2. Place salmon on foil-lined sheet. Pour marinade over salmon.
+3. Bake at 375°F for 15-18 minutes until flaky.",0,3
+sweet-potatoes,Roasted Sweet Potatoes,Side,Side,6,10,35,Easy,Roast,"2 lb sweet potatoes, peeled and cubed
+2 tbsp olive oil
+1 tsp salt, 1/2 tsp pepper
+1/2 tsp garlic powder, 1/2 tsp thyme
+1/2 tsp paprika","1. Preheat oven to 425°F.
+2. Toss sweet potatoes with oil and spices until coated.
+3. Roast 30-35 min, tossing halfway, until tender and caramelized.",0,0
+green-salad,Simple Green Salad with Vinaigrette,Side,Side,6,15,0,Easy,No-cook,"5 cups mixed greens (or arugula/spinach)
+1 cucumber, sliced
+1/2 red onion, sliced
+DRESSING: 3 tbsp olive oil, 1 tbsp lemon juice (or vinegar), 1 tsp dried basil, salt/pepper","1. Whisk dressing ingredients together.
+2. Toss greens and vegetables in a large bowl.
+3. Drizzle with dressing and toss to coat.",0,0
+shrimp-tacos,Spicy Shrimp Tacos with Slaw,Main,Seafood,6,20,10,Medium,Stovetop,"1 lb shrimp, peeled/deveined
+1 tsp chili powder, 1 tsp cumin, 1/2 tsp garlic powder
+8 corn tortillas
+SLAW: 2 cups cabbage mix, 2 tbsp lime juice, 1 tbsp mayo
+Avocado, Cilantro","1. Toss shrimp with spices. Sauté in oil 3-4 min until pink.
+2. Mix slaw ingredients. Chill slightly.
+3. Assemble tacos with shrimp, slaw, cilantro, and avocado.",0,0
+slaw,Mexican Coleslaw,Side,Side,6,15,0,Easy,No-cook,"4 cups shredded cabbage
+1/2 cup cilantro, chopped
+1/4 cup red onion, diced
+1 jalapeño, minced
+DRESSING: 2 tbsp lime juice, 1 tbsp olive oil, 1/2 tsp cumin, salt","1. Whisk dressing ingredients.
+2. Toss with cabbage, cilantro, onion, jalapeño.
+3. Chill 20 min to blend flavors.",0,0
+lime-crema,Easy Lime Crema,Side,Side,6,5,0,Easy,No-cook,"1 cup sour cream (or Mexican Crema)
+2 tbsp lime juice
+1 tsp lime zest
+1/4 tsp garlic powder
+Pinch of salt","1. Whisk all ingredients in a small bowl until smooth.
+2. Chill until ready to serve.",0,0

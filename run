@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Make scripts executable
+chmod +x ./start.sh
+chmod +x ./deploy.sh
+
+# Execute the start script
+bash ./start.sh 

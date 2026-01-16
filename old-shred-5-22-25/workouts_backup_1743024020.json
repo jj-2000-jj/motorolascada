@@ -1,0 +1,23 @@
+{
+    "workoutHistory": {
+        "TEST_USER_2025-03-26": {
+            "TestExercise": {
+                "sets": [
+                    {
+                        "weight": 100,
+                        "reps": 10
+                    },
+                    {
+                        "weight": 100,
+                        "reps": 10
+                    }
+                ]
+            },
+            "_stats": {
+                "bodyWeight": 170,
+                "timestamp": 1743024001770,
+                "date": "2025-03-26"
+            }
+        }
+    }
+}

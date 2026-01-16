@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dinner</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="banner" class="banner" role="alert" hidden></div>
+  <header class="app-header" role="banner">
+    <img src="./logo.png" alt="Dinner" style="height:32px; border-radius:8px"/>
+    <div class="controls" role="group" aria-label="Week controls and actions">
+      <button id="prevWeek" aria-label="Previous Week">◂</button>
+      <div id="weekLabel" class="week-label" aria-live="polite"></div>
+      <button id="nextWeek" aria-label="Next Week">▸</button>
+      <div class="spacer"></div>
+      <label>Ready at <input id="readyAt" type="time" value="17:00" aria-label="Ready at"/></label>
+    </div>
+  </header>
+
+  <main id="calendar" class="calendar" role="main"></main>
+
+  <footer class="app-footer" role="contentinfo">
+    <button id="shoppingList">Shopping List</button>
+    <button id="exportState">Export</button>
+    <button id="resetWeek" class="danger">Reset Week</button>
+  </footer>
+
+  <div id="modalRoot" aria-live="assertive"></div>
+
+  <link rel="icon" href="/dinner/favicon.ico" />
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
+

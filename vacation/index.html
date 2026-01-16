@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Choose Your Own Vacation</title>
+  <meta name="description" content="A tiny choose-your-own-vacation to help pick our next getaway" />
+  <style>
+    :root{
+      --bg: #0b1224;
+      --glass: rgba(13, 20, 40, 0.9);
+      --border: rgba(255,255,255,.12);
+      --muted: #9fb0cf;
+      --text: #e8eefc;
+      --accent: #22d3ee;      /* cyan-400 */
+      --accent-2: #a78bfa;    /* violet-400 */
+      --ring: rgba(34,211,238,.35);
+      --shadow: 0 20px 50px rgba(0,0,0,.45);
+      --radius: 22px;
+      --space: clamp(14px, 2vmin, 22px);
+      --maxw: 980px;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body{
+      margin:0; padding:0; background: var(--bg);
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      display:flex; align-items: center; justify-content: center;
+      padding: clamp(16px, 3vmin, 36px);
+    }
+    /* Cinematic background */
+    .bg{
+      position: fixed; inset: 0;
+      background: url('assets/background.jpg') center / cover no-repeat fixed;
+      filter: saturate(1.12) contrast(1.05) brightness(.82);
+      transform: scale(1.06);
+      animation: zoom 20s ease-in-out infinite alternate;
+      z-index: -2;
+    }
+    .bg::after{
+      content: "";
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(1200px 800px at 10% -10%, rgba(76,29,149,.35), transparent 60%),
+        radial-gradient(1200px 800px at 110% 10%, rgba(8,145,178,.35), transparent 60%),
+        linear-gradient(180deg, rgba(3,7,18,.55), rgba(3,7,18,.72));
+      z-index: -1;
+    }
+    @keyframes zoom{
+      from { transform: scale(1.04) translateY(-6px); }
+      to   { transform: scale(1.1)  translateY(6px); }
+    }
+
+    .wrap{ width: 100%; max-width: var(--maxw); }
+    .card{
+      background: var(--glass);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      backdrop-filter: blur(10px) saturate(120%);
+      position: relative;
+      isolation: isolate;
+    }
+    /* Subtle neon edge */
+    .card::before{
+      content:""; position:absolute; inset:0; border-radius: inherit; padding:1px;
+      background: linear-gradient(135deg, rgba(34,211,238,.5), rgba(167,139,250,.5));
+      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite: xor; mask-composite: exclude;
+      opacity:.4; pointer-events:none;
+    }
+
+    header{
+      display:flex; align-items:center; justify-content: space-between;
+      padding: calc(var(--space) * 1.1) calc(var(--space) * 1.2);
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.01));
+    }
+    header h1{ font-size: clamp(18px, 2.6vmin, 22px); margin:0; letter-spacing: .4px; }
+    header .meta{ font-size: 13px; color: var(--muted); }
+    .content{ padding: calc(var(--space) * 1.25); display:grid; gap: calc(var(--space) * 1.1); }
+    .prompt{ font-size: clamp(22px, 3.4vmin, 30px); line-height: 1.25; }
+    .options{ display:grid; gap: 12px; grid-template-columns: 1fr; }
+    @media (min-width: 720px){ .options{ grid-template-columns: repeat(3, 1fr); } }
+
+    .btn{
+      appearance: none; border: 0; cursor: pointer; padding: 16px 18px; border-radius: 14px;
+      background: rgba(34,211,238,.12);
+      color: var(--text); font-weight: 700; font-size: 16px; text-align:left; line-height:1.25;
+      border: 1px solid rgba(34,211,238,.25);
+      outline: none; transition: transform .08s ease, box-shadow .2s ease, background .2s ease;
+      box-shadow: 0 8px 18px rgba(34,211,238,.12);
+    }
+    .btn:hover{ transform: translateY(-1px); box-shadow: 0 12px 24px rgba(34,211,238,.18); }
+    .btn:focus{ box-shadow: 0 0 0 4px var(--ring); }
+    .ghost{ background: transparent; border-color: rgba(255,255,255,.25); box-shadow:none; font-weight:600; }
+
+    .gallery{
+      display:grid;
+      gap: 14px;
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    @media (min-width: 760px){
+      .gallery{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+    .gallery img{
+      width: 100%;
+      height: clamp(220px, 26vmin, 320px);
+      object-fit: cover;
+      border-radius: 14px;
+      border:1px solid rgba(255,255,255,.18);
+      filter: saturate(1.05) contrast(1.03);
+    }
+
+    .itinerary{ background: rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.12); border-radius: 16px; padding: 18px; }
+    .itinerary h3{ margin: 0 0 8px; font-size: 18px; }
+    .itinerary ul{ margin: 10px 0 0 18px; color: var(--muted); }
+
+  </style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+  <main class="wrap card" role="main" aria-live="polite">
+    <header>
+      <h1>Choose Your Own Vacation</h1>
+      <div class="meta" id="progressLabel">Step 1</div>
+    </header>
+    <section class="content" id="content"><!-- dynamic --></section>
+  </main>
+
+  <script>
+    // Flow: choice → gallery → itinerary → select
+    const story = {
+      start: {
+        type: 'choice',
+        prompt: "Select from an adventure below that fits your preference.",
+        options: [
+          { label: "Golf and charm", next: "C_gallery" },
+          { label: "Volcano and golf adventure", next: "G_gallery" },
+          { label: "Wait for it...because we'll need to actually wait longer", next: "S_gallery" }
+        ]
+      },
+
+      // Charleston
+      C_gallery: {
+        type: 'gallery',
+        title: "Charleston — Southern Greens & Lowcountry Charm",
+        images: [
+          "assets/c1.jpg",
+          "assets/c2.jpg",
+          "assets/c3.jpg",
+          "assets/c4.jpg"
+        ],
+        caption: "Golf mornings, pastel streets, and great meals.",
+        next: "C_itin"
+      },
+      C_itin: {
+        type: 'itinerary',
+        title: "Charleston (Jan 18–24, 2026)",
+        bullets: [
+          "Day 1: Arrive, Historic District stroll, dinner at Husk or FIG.",
+          "Day 2: Golf — Patriots Point; oysters afterward at The Ordinary or Leon's.",
+          "Day 3: Rainbow Row & The Battery; spa (The Dewberry or Hotel Bennett).",
+          "Day 4: Golf — Wild Dunes Links; beach walk on Isle of Palms.",
+          "Day 5: History meander + reservations for a date‑night spot.",
+          "Day 6: Golf —  Wild Dunes Harbor.",
+          "Day 7: Brunch and a last slow walk before we head out."
+        ],
+        note: "Just golf, food, and classic streets.",
+        next: "C_select"
+      },
+      C_select: { type: 'select', title: "How to select the Charleston vacation:", bullets: [
+        "Send me a sexy photo of you laying on the bed wearing what you’ll take to Charleston to seduce me."
+      ]},
+
+      // Guatemala
+      G_gallery: {
+        type: 'gallery',
+        title: "Guatemala — Volcanoes & Colonial Streets",
+        images: [
+          "assets/g1.jpeg",
+          "assets/g2.jpg",
+          "assets/g3.jpg",
+          "assets/g4.webp"
+        ],
+        caption: "Antigua base, Pacaya/Acatenango hikes, Maya history.",
+        next: "G_itin"
+      },
+      G_itin: {
+        type: 'itinerary',
+        title: "Guatemala (Jan 18–24, 2026)",
+        bullets: [
+          "Day 1: Land at GUA → Antigua; dinner at Mesón Panza Verde.",
+          "Day 2: Golf — Mayan Golf Club (volcano‑view fairways).",
+          "Day 3–4: Pacaya volcano day hike; couples massage after.",
+          "Day 5: Golf — Mayan Golf Club (volcano‑view fairways).",
+          "Day 6: Iximché ruins + Antigua markets & cafés.",
+          "Day 7: Brunch and head home."
+        ],
+        note: "Backup golf: San Isidro if needed.",
+        next: "G_select"
+      },
+      G_select: { type: 'select', title: "How to select the Guatemala vacation:", bullets: [
+        "Send me a sexy photo of you on your hands and knees wearing what you’ll take to Guatemala to seduce me."
+      ]},
+
+      // Sailing
+      S_gallery: {
+        type: 'gallery',
+        title: "Sailing — Grenadines with Friends (Nov 2026)",
+        images: [
+          "assets/s1.jpeg",
+          "assets/s2.avif",
+          "assets/s3.jpg",
+          "assets/s4.webp"
+        ],
+        caption: "Bequia → Tobago Cays → Mayreau → Union → Canouan.",
+        next: "S_itin"
+      },
+      S_itin: {
+        type: 'itinerary',
+        title: "Sailing the Grenadines (maybe Nov 2026)",
+        bullets: [
+          "Start in Bequia; stock up along the Belmont Walkway.",
+          "Mustique stop (moorings; sunset at Basil’s Bar).",
+          "Tobago Cays: turtles and reef snorkeling.",
+          "Mayreau: Salt Whistle Bay beach BBQ night.",
+          "Union Island + day stops at Palm Island.",
+          "Canouan, then back to Bequia for a final dinner ashore."
+        ],
+        note: "This trip is not planned with Kris or anyone else…but I’m sure we could get something like this in the works for later 2026",
+        next: "S_select"
+      },
+      S_select: { type: 'select', title: "How to select the sailing vacation:", bullets: [
+        "Send me a sexy photo of you from behind looking at a mirror wearing what you’ll take sailing to seduce me."
+      ]}
+    };
+
+    const contentEl = document.getElementById('content');
+    const progressLabel = document.getElementById('progressLabel');
+    const titleEl = document.querySelector('header h1');
+    const TITLE_DEFAULT = 'Choose Your Own Vacation';
+    const TITLE_INTRO = 'Brooke, you must now pick your 2026 vacation with Jared.';
+
+    const HISTORY_KEY = 'cyoa_vacation_history_v3';
+    let history = [];
+    let current = 'start';
+
+    function saveState(){ try { localStorage.setItem(HISTORY_KEY, JSON.stringify({history, current})); } catch{} }
+    function loadStateFromHash(){
+      const h = new URL(location.href).hash;
+      if(h.startsWith('#path=')){
+        try{
+          const arr = JSON.parse(decodeURIComponent(escape(atob(h.slice(6)))));
+          if(Array.isArray(arr) && arr.every(x => typeof x === 'string')){
+            history = arr.slice(0, -1);
+            current = arr[arr.length - 1] || 'start';
+            return true;
+          }
+        }catch{}
+      }
+      return false;
+    }
+    function loadState(){
+      if(loadStateFromHash()) return;
+      try{
+        const raw = localStorage.getItem(HISTORY_KEY);
+        if(raw){ const s = JSON.parse(raw); history = s.history||[]; current = s.current||'start'; }
+      }catch{}
+    }
+    function setProgress(){ const step = history.length + 1; progressLabel.textContent = `Step ${step}`; }
+    function push(next){ history.push(current); current = next; saveState(); render(); }
+
+    function render(){
+      const node = story[current];
+      titleEl.textContent = current === 'start' ? TITLE_INTRO : TITLE_DEFAULT;
+      setProgress();
+      if(!node){ contentEl.innerHTML = `<div class="quiet">Unknown step. <button class="btn" onclick="resetStory()">Restart</button></div>`; return; }
+
+      if(node.type === 'choice'){
+        const promptHTML = node.prompt ? `<div class="prompt">${node.prompt}</div>` : '';
+        const markup = [
+          promptHTML,
+          `<div class="options" role="group" aria-label="Answer choices">
+            ${node.options.map(o=>`<button class="btn" data-next="${o.next}" aria-label="${o.label}">${o.label}</button>`).join('')}
+          </div>`
+        ].filter(Boolean).join('');
+        contentEl.innerHTML = markup;
+        contentEl.querySelectorAll('button[data-next]').forEach(btn => btn.addEventListener('click', ()=> push(btn.getAttribute('data-next'))));
+      }
+      else if(node.type === 'gallery'){
+        const imgs = node.images.map(src=>`<img src="${src}" alt="${node.title}">`).join('');
+        contentEl.innerHTML = `
+          <div class="gallery">${imgs}</div>
+          <div class="row">
+            <button class="btn ghost" id="inlineBack">⟵ Back</button>
+            <button class="btn" id="inlineNext">Continue →</button>
+          </div>`;
+        document.getElementById('inlineBack').addEventListener('click', goBack);
+        document.getElementById('inlineNext').addEventListener('click', ()=> push(node.next));
+      }
+      else if(node.type === 'itinerary'){
+        const bullets = node.bullets.map(b=>`<li>${b}</li>`).join('');
+        contentEl.innerHTML = `
+          <div class="itinerary">
+            <h3>${node.title}</h3>
+            <ul>${bullets}</ul>
+            ${node.note ? `<p class="quiet" style="margin-top:10px;">${node.note}</p>` : ''}
+          </div>
+          <div class="row" style="margin-top:10px;">
+            <button class="btn ghost" id="inlineBack">⟵ Back</button>
+            <button class="btn" id="inlineNext">Continue →</button>
+          </div>`;
+        document.getElementById('inlineBack').addEventListener('click', goBack);
+        document.getElementById('inlineNext').addEventListener('click', ()=> push(node.next));
+      }
+      else if(node.type === 'select'){
+        const bullets = node.bullets.map(b=>`<li>${b}</li>`).join('');
+        contentEl.innerHTML = `
+          <div class="itinerary">
+            <h3>${node.title}</h3>
+            <ul class="quiet" style="margin:0 0 10px 18px;">${bullets}</ul>
+          </div>
+          <div class="row" style="margin-top:10px;">
+            <button class="btn ghost" id="inlineBack">⟵ Back</button>
+          </div>`;
+        document.getElementById('inlineBack').addEventListener('click', goBack);
+      }
+    }
+
+    function goBack(){ if(history.length === 0) return; current = history.pop(); saveState(); render(); }
+    function resetStory(){ history = []; current = 'start'; saveState(); render(); }
+
+    loadState(); saveState(); render();
+  </script>
+</body>
+</html>
