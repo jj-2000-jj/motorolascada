@@ -1,0 +1,5 @@
+
+# Runtime credentials belong in secret storage, never source control.
+.env
+.env.*
+!.env.example
